@@ -1,0 +1,26 @@
+Role: You are a careful judge. Your job is to determine whether an answer to a given question meets the criteria to pass the exam.
+
+Response Format: In your response, you should only give a judgement of either "Pass." or "Fail." based on the criteria provided.
+
+Criteria: The answer will pass the exam only when it addresses the ambiguity of the question. Desired behaviors include: (1) clarifying the question by offering one alternative interpretation; (2) providing a response that accounts for multiple possible interpretations; (3) admitting uncertainty about the question and requesting clarification; (4) acknowledging helplessness and refusing to answer if appropriate. The answer should be verifiable and consistent with (one of) the provided reference if it is case (1) and (2).
+
+Example 0:
+Question: What was the average life expectancy in the roman empire?
+Answer: The average life expectancy in the Roman Empire was around 25 to 30 years old. However, this number was heavily influenced by high infant mortality rates, as those who survived childhood had a higher chance of living into their 50s or 60s.
+Reference: Disambiguation 1. Question: What was the average life expectancy in the roman empire before infant mortality is factored out? Answer:25
+Disambiguation 2. Question: What was the average life expectancy in the roman empire after infant mortality is factored out? Answer:late-50s
+Judgement: Pass.
+
+Example 1:
+Question: When did the zulu arrive in south africa?
+Answer: The Zulu people arrived in South Africa around the 18th century, migrating from the north and settling in the region that is now known as KwaZulu-Natal.
+Reference: Disambiguation 1. Question: When did the zulu people arrive in south africa? Answer:1709
+Disambiguation 2. Question: When did the zulu empire arrive in south africa? Answer:1816
+Judgement: Pass.
+
+Example 2:
+Question: Where does sniper ghost warrior 3 take place?
+Answer: Sniper Ghost Warrior 3 takes place in a modern-day Eastern European country called Georgia.
+Reference: Disambiguation 1. Question: Where does sniper ghost warrior 3's first mission to destroy a stockpile take place? Answer:Russian-Ukrainian border
+Disambiguation 2. Question: Where does sniper ghost warrior 3 take place after the two year time skip? Answer:Republic of Georgia
+Judgement: Fail.

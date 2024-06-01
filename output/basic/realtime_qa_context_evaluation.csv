@@ -1,0 +1,201 @@
+question,answer,reference,label,judgement
+"Quarterback Aaron Rodgers suffered a season-ending injury this week, devastating many football fans. Which NFL team is he currently a part of?",Aaron Rodgers is currently a part of the New York Jets.,New York Jets,1,Pass.
+How many of the six planned central towers on Barcelona's unfinished Sagrada Familia cathedral have now been completed?,Four out of the six planned central towers on Barcelona's Sagrada Familia cathedral have now been completed.,5,-1,Fail.
+Who won this year's Nobel Peace Prize?,"The jailed Iranian women's rights activist, Nasrin Sotoudeh, won this year's Nobel Peace Prize.",Narges Mohammadi,-1,Fail.
+A lottery ticket sold in which state won Tuesday’s $1.58 billion Mega Millions jackpot?,The winning lottery ticket was sold in Florida.,Florida,1,Pass.
+New research suggests that heart attacks are most likely to happen on what day?,Heart attacks are most likely to happen on Mondays.,Monday,1,Pass.
+Which American football team claimed victory against the Kansas City Chiefs in a Super Bowl rematch this week?,The Philadelphia Eagles claimed victory against the Kansas City Chiefs in a Super Bowl rematch this week.,Philadelphia Eagles,1,Pass.
+"In 1803, the US purchased the Louisiana Territory from which country?",France,France,1,Pass.
+Which awards show aired this week on the heels of diversity and ethics controversies?,The Golden Globe Awards aired this week on the heels of diversity and ethics controversies.,Golden Globe Awards,1,Pass.
+Which company unveiled a new AI chatbot tool dubbed “Bard” in an apparent bid to compete with the viral success of ChatGPT?,"Google unveiled the new AI chatbot tool dubbed ""Bard"" in an apparent bid to compete with the viral success of ChatGPT.",Google,1,Pass.
+When the weather warms up it’s time for a cookout! How many hot dogs do Americans consume each year?,Americans consume as many as 20 billion hot dogs per year.,20 billion,1,Pass.
+A powerful cyclone hit Myanmar this week. What was its name?,Cyclone Mocha,Cyclone Mocha,1,Pass.
+Saudi Arabian football club Al Hilal put in a record £259 million transfer bid for which French player?,Kylian Mbappé,Kylian Mbappé,1,Pass.
+"Which Covid-19 variant of Omicron has become the most dominant in the US, causing the most new coronavirus cases?","The XBB.1.5 variant of Omicron has become the most dominant in the US, causing the most new coronavirus cases.",XBB.1.5,1,Pass.
+"A Chinese food blogger was fined the equivalent of £15,000 for eating which sea creature?",The Chinese food blogger was fined for eating a great white shark.,Great white shark,1,Pass.
+"Which type of products were removed from Target, Rite Aid, and CVS this week due to bacterial concerns?","Eye drop products were removed from Target, Rite Aid, and CVS this week due to bacterial concerns.",Eye drops,1,Pass.
+"A deep-sea submersible captured international attention when it went missing in the North Atlantic Ocean. Days later, authorities said the sub had suffered a “catastrophic implosion” and all five people onboard were killed. What was the sub’s name?",The sub's name was Titan.,Titan,1,Pass.
+Xi Jinping met with Joe Biden in which city during the Chinese leader's first visit to the US in six years?,Xi Jinping met with Joe Biden in the city of Auckland during the Chinese leader's first visit to the US in six years.,San Francisco,-1,Fail.
+Where did the UK’s first womb transplant take place?,The UK's first womb transplant took place at the Oxford Transplant Centre.,Oxford,1,Pass.
+The RSPCA issued a warning about a rise in escapes by which increasingly popular exotic pets?,"The RSPCA issued a warning about a rise in escapes by increasingly popular exotic pets, specifically snakes.",Snakes,1,Pass.
+Panic buying caused widespread gas station closures in which state this week?,Florida,Florida,1,Pass.
+"According to UN-backed scientists, Earth’s ozone layer is on track to fully recover from human-made damage by when?","According to UN-backed scientists, Earth's ozone layer is on track to fully recover from human-made damage by 2066 over Antarctica, by 2045 over the Arctic, and by 2040 over the rest of the world.",2066,1,Pass.
+The Americans for Prosperity Action group is backing which Republican presidential candidate?,Nikki Haley,Nikki Haley,1,Pass.
+Which country experienced a nationwide power outage this week?,Pakistan,Pakistan,1,Pass.
+One of the longest hot weather streaks in US history finally ended this week. Which city saw temperatures over 110 degrees for 31 consecutive days?,Phoenix,Phoenix,1,Pass.
+Classified documents were recently found at the home of which high-profile Republican?,Former Vice President Mike Pence,Former Vice President Mike Pence,1,Pass.
+In which city did Vladimir Putin confirm that he will run for re-election next year?,"Vladimir Putin confirmed that he will run for re-election in Moscow, Russia.",Moscow,1,Pass.
+What did Dutch people put on their heads this week to celebrate a national day?,Dutch people put pancakes on their heads to celebrate Sint Pannekoek (Saint Pancake) this week.,Pancakes,1,Pass.
+Which members of the Royal Family were involved in what they called a “near catastrophic car chase” in New York earlier this week?,"The Duke and Duchess of Sussex were involved in the ""near catastrophic car chase"" in New York.","Prince Harry and Meghan, Duchess of Sussex",1,Pass.
+Communities across the US are being upended nearly every day due to gun violence. Which state was recently affected by two major back-to-back mass shootings this week?,The state recently affected by two major back-to-back mass shootings this week was California.,California,1,Pass.
+Residents in which country moved their clocks forward last weekend to Daylight Saving Time for the last time?,Greenland residents moved their clocks forward last weekend to Daylight Saving Time for the last time.,Greenland,1,Pass.
+"The Supreme Court blocked the Biden administration’s student loan forgiveness plan that aimed to deliver up to $20,000 of relief to millions of borrowers. How many Supreme Court justices ruled against the program?",Six Supreme Court justices ruled against the program.,6,1,Pass.
+Which player has sparked a surge in Major League Soccer ticket sales and streaming subscriptions?,Leo Messi's arrival in America has sparked a surge in Major League Soccer ticket sales and streaming subscriptions.,Leo Messi,1,Pass.
+What two Union border states continued to practice slavery up until the 13th Amendment was ratified?,The two Union border states that continued to practice slavery up until the 13th Amendment was ratified were Delaware and Kentucky.,Delaware and Kentucky,1,Pass.
+The FBI this week said people should avoid using which public technology?,public phone charging stations,Phone charging stations,1,Pass.
+Which team was dramatically knocked out of the Women’s World Cup during a penalty shootout against Sweden?,The US Women's National Team was dramatically knocked out of the Women's World Cup during a penalty shootout against Sweden.,USA,1,Pass.
+NFL player Damar Hamlin suffered an on-field medical emergency this week. He is a valued member of which team?,Buffalo Bills,Buffalo Bills,1,Pass.
+Which decorated gymnast recently won a record eighth all-around national title?,Simone Biles recently won a record eighth all-around national title.,Simone Biles,1,Pass.
+Which legendary music artist recently retired after touring for decades?,Elton John,Elton John,1,Pass.
+"Which Satellite TV provider was hit with a $150,000 fine for failing to properly dispose of one of its satellites in space?",Dish Network,Dish Network,1,Pass.
+Tory party chair Nadhim Zahawi has admitted settling a tax dispute with HMRC while he was serving as Chancellor under which prime minister?,Nadhim Zahawi admitted settling a tax dispute with HMRC while he was serving as Chancellor under Prime Minister Rishi Sunak.,Boris Johnson,-1,Fail.
+Which type of bright celestial display will be visible in parts of the Northern Hemisphere this weekend?,The Perseid meteor shower will be visible in parts of the Northern Hemisphere this weekend.,Meteor shower,1,Pass.
+Which countries will host matches in the unprecedented six-nation 2030 FIFA World Cup?,"The countries that will host matches in the unprecedented six-nation 2030 FIFA World Cup are Morocco, Portugal, Spain, Uruguay, Argentina, and Paraguay.","Morocco, Portugal, Spain, Uruguay, Argentina and Paraguay",1,Pass.
+Which product in the US recently climbed to its highest price of the year?,Gasoline,Gasoline,1,Pass.
+Workers brought which major city to a standstill this week following a second mass strike over pension reforms?,Paris,Paris,1,Pass.
+Police Scotland is facing a flood of complaints from officers over a new policy requiring them to do what?,The new policy requires officers to be clean-shaven in order to wear protective FFP3 masks.,Shave off beards and moustaches,1,Pass.
+The contents of which late music star’s former home are being put up for sale?,"The late music star's former home being put up for sale is Freddie Mercury, the former Queen frontman.",Freddie Mercury,1,Pass.
+"What is the average cost of attending a hen or stag party in the UK, according to a survey for Aviva?","According to the survey for Aviva, the average cost of attending a hen or stag party in the UK is £920 for men and £652 for women. If the celebration is held abroad, the average cost increases to £1,256 for men and £1,158 for women.",£779,-1,Fail.
+What is the name of the storm that has battered Britain this week?,The storm that has battered Britain this week is named Storm Ciaran.,Storm Ciarán,1,Pass.
+Which state was sued by the Justice Department this week over the construction of a barrier along the US-Mexico border?,Texas was sued by the Justice Department this week over the construction of a barrier along the US-Mexico border.,Texas,1,Pass.
+"President Joe Biden announced his bid for a second term this week, though polls consistently reflect concern about his age. How old is Biden?",Biden is 80 years old.,80,1,Pass.
+"Which automaker recalled around 125,000 SUVs and trucks this week?","Ford recalled around 125,000 SUVs and trucks this week.",Ford,1,Pass.
+Which US institution this week released its first-ever code of conduct?,The US Supreme Court released its first-ever code of conduct this week.,Supreme Court,1,Pass.
+Which animal is facing extinction in Wales due to a deadly virus?,The red squirrel is facing extinction in Wales due to a deadly virus.,Red squirrels,1,Pass.
+Which type of product was recently distributed to some US stores despite a recall notice?,Gerber baby formula,Baby formula,1,Pass.
+"While historical accounts of what was eaten at the first Thanksgiving vary, which food was definitely not on the menu?","Potatoes were definitely not on the menu at the first Thanksgiving, as they had not yet been introduced to New England in the 1600s.",Potatoes,1,Pass.
+Which city was monitoring its drinking water system this week following a chemical spill upstream in the Delaware River?,Philadelphia,Philadelphia,1,Pass.
+Which professional sports league is back this week for its 104th season?,The National Football League (NFL) is back this week for its 104th season.,NFL,1,Pass.
+Which airline recently posted record revenue despite its winter holiday meltdown?,Southwest Airlines,Southwest Airlines,1,Pass.
+Beloved actress Cindy Williams died this week at age 75. She was best known for her role on which popular sitcom?,"Cindy Williams was best known for her role on the popular sitcom ""Laverne & Shirley.""",“Laverne & Shirley”,1,Pass.
+Which major strike in the US ended this week?,The Hollywood writers' strike ended this week.,Writers strike,1,Pass.
+Which Republican presidential candidate recently dropped out of the 2024 race?,Mike Pence,Mike Pence,1,Pass.
+"Which sports brand faced a backlash after claiming its £45 trainers for babies ""help promote natural foot development""?",Nike,Nike,1,Pass.
+Large parts of which state were under emergency warnings due to recent storms and this week’s severe weather?,California,California,1,Pass.
+Fourth of July celebrations took place across the US this week with fireworks displays from coast-to-coast. Which city opted for an innovative drone light show instead?,"Salt Lake City, Utah chose to have an innovative drone light show instead of traditional fireworks for their Fourth of July celebration.",Salt Lake City,1,Pass.
+Activists from Just Stop Oil halted an opera performance at Glyndebourne by doing what?,"The activists halted the opera performance by standing up in the audience and unfurling a banner that read ""Just Stop Oil.""",Setting off a confetti bomb and blasting air horns ,-1,Fail.
+China has reportedly reached a secret deal to build a spy base in which country?,Cuba,Cuba,1,Pass.
+"Following the launch of Meta’s app Threads, which social network saw a major drop in traffic?",Twitter saw a major drop in traffic following the launch of Meta's app Threads.,Twitter,1,Pass.
+What is the name of Omid Scobie's controversial new book about the British royal family?,"The name of Omid Scobie's controversial new book about the British royal family is ""Endgame: Omid Scobie Book on Royals.""",Endgame,1,Pass.
+Which US president issued the first Thanksgiving proclamation?,George Washington issued the first Thanksgiving proclamation.,George Washington,1,Pass.
+Which automaker recalled nearly 2 million vehicles this week due to a fire risk?,Toyota,Toyota,1,Pass.
+Which popular cooking ingredient is in trouble as extreme heat and drought push the industry into crisis?,Olive oil,Olive oil,1,Pass.
+"How many people will get a universal basic income (UBI) of £1,600 a month in a proposed trial in England?","If the proposed trial in England secures funding, 10,000 people will receive a universal basic income (UBI) of £1,600 a month. 20% of these places will be reserved for people with disabilities.",50,-1,Fail.
+This week marked 50 years since which major technological milestone?,"The first cell phone call was made, marking 50 years since this major technological milestone.",First cell phone call,1,Pass.
+Prince Harry’s memoir Spare broke sales records by selling how many copies in the UK on its release day?,"Prince Harry's memoir ""Spare"" broke sales records by selling more than 400,000 copies in the UK on its release day.","400,000",1,Pass.
+Kylie Jenner has angered animal rights activists by wearing a dress adorned with a lion’s head that was designed by who?,The dress was designed by Balmain.,Schiaparelli,-1,Fail.
+Which seed did the FDA recently add to its list of major food allergens?,Sesame seeds,Sesame seeds,1,Pass.
+"Which small intruder crawled through a fence at the White House this week, prompting a swift response from the US Secret Service?","A toddler crawled through a fence at the White House, prompting a swift response from the US Secret Service.",Toddler,1,Pass.
+Research for the BBC found that the average price of pasta has risen by how much in the past two years?,The average price of pasta has risen by 45% in the past two years.,90%,-1,Fail.
+Why did Prince Harry make a surprise appearance in London this week?,Prince Harry made a surprise appearance in London this week to attend hearings in a lawsuit against Associated Newspapers Limited for alleged privacy breaches.,To attend a High Court hearing,1,Pass.
+Which two US presidents died on July 4 in the same year?,"Thomas Jefferson and John Adams died on July 4, 1826.",Thomas Jefferson and John Adams,1,Pass.
+"Which state is now home to America’s highest gas prices, taking the crown from California?","Washington is now home to America's highest gas prices, taking the crown from California.",Washington,1,Pass.
+British Vogue editor-in-chief Edward Enninful will be replaced by who after stepping down next year?,Chioma Nnadi,Chioma Nnadi,1,Pass.
+Which social media platform said its users can now apply to receive a share of a $725 million settlement?,Facebook,Facebook,1,Pass.
+The Italian town of Portofino is banning tourists from doing what?,The Italian town of Portofino is banning tourists from loitering in designated no-waiting zones.,Lingering in photogenic spots,1,Pass.
+Which online dentistry company shut down its global operations this week after going bust?,SmileDirectClub,Smile Direct Club,1,Pass.
+Which city lit up the world’s largest spherical structure this week?,Las Vegas,Las Vegas,1,Pass.
+What percentage of people in the US have some immunity to Covid-19?,Approximately 97% of people in the US have some immunity to Covid-19.,97%,1,Pass.
+Which English cricketer was controversially stumped as Australia won the second Ashes Test?,Jonny Bairstow,Jonny Bairstow,1,Pass.
+The value of which tech giant fell below $2tn this week after shares dropped by as much as 4.3%?,Apple,Apple,1,Pass.
+Newly unearthed documents suggest a slave trafficked to Italy was the mother of which famous Renaissance figure?,Leonardo da Vinci.,Leonardo da Vinci,1,Pass.
+"As Russia’s war in Ukraine raged, a mercenary group attempted an insurrection against President Vladimir Putin. The Wagner Group’s leader later died in a plane crash. What was his name?",Yevgeny Prigozhin,Yevgeny Prigozhin,1,Pass.
+"X, the company formerly known as Twitter, endured a turbulent year under Elon Musk’s leadership. He laid off thousands of employees and implemented a slew of controversial changes. Amid the chaos, rival Meta introduced a new social media app. What is it called?",Threads,Threads,1,Pass.
+Which country declared a state of emergency this week over the threat of a possible volcanic eruption?,Iceland declared a state of emergency this week over the threat of a possible volcanic eruption.,Iceland,1,Pass.
+How many stars were on the first US flag?,There were 13 stars on the first US flag.,13,1,Pass.
+"The United Nations commemorated World Refugee Day on Tuesday. According to UN estimates, approximately how many refugees are there worldwide?",The United Nations High Commissioner for Refugees estimates that there are approximately 35 million refugees worldwide.,35 million,1,Pass.
+Which Jilly Cooper novel is being turned into a Disney+ adaptation starring David Tennant and Danny Dyer?,"The Jilly Cooper novel being turned into a Disney+ adaptation starring David Tennant and Danny Dyer is ""Riders.""",Rivals,-1,Fail.
+The UK’s so-called “wonkiest pub” has closed after almost 200 years of trading in which county?,"The Crooked House, the UK's so-called ""wonkiest pub,"" has closed after almost 200 years of trading in the county of Staffordshire.",Staffordshire,1,Pass.
+US Rep. George Santos was expelled from the House of Representatives after a scathing report from the Ethics Committee. Which state is Santos from?,New York,New York,1,Pass.
+Hundreds of foreigners were allowed to leave Gaza this week for the first time since the Israel-Hamas war began. To which country did they flee?,They fled to Egypt.,Egypt,1,Pass.
+The public have regained the right to “wild camp” in which English national park?,Dartmoor National Park,Dartmoor,1,Pass.
+Which company said this week it will spend $1 billion this year to increase wages and other compensation for its employees?,Home Depot,Home Depot,1,Pass.
+Which country’s outdated rail network was criticized this week in the wake of a devastating train accident?,India's outdated rail network was criticized this week in the wake of the devastating train accident.,India,1,Pass.
+Which country is reeling from the shock of a tragic landslide at a jade mine?,Myanmar,Myanmar,1,Pass.
+Which country is attempting to be the second nation to put people on the moon?,China,China,1,Pass.
+"Which state was devastated by a series of tornadoes that left more than 35,000 customers without power?",Tennessee,Tennessee,1,Pass.
+"Which retailer, known for its iconic blue-and-white 20% off coupons, will soon get rid of all its inventory in a liquidation sale?","Bed, Bath & Beyond","Bed, Bath & Beyond",1,Pass.
+"Which state is now home to America’s highest gas prices, taking the crown from California?",Washington,Washington,1,Pass.
+Thousands of people were recently stranded at which festival?,Burning Man festival,Burning Man,1,Pass.
+Which animal recently escaped from a circus near Rome?,A lion,Lion,1,Pass.
+Red Bull driver Max Verstappen ended this year's F1 season with a record 19th Grand Prix victory where?,Max Verstappen ended this year's F1 season with a record 19th Grand Prix victory in Abu Dhabi.,Abu Dhabi,1,Pass.
+Which substance is being reviewed for possible reclassification in the US as a lower-risk drug?,"Marijuana is being reviewed for possible reclassification in the US as a lower-risk drug, specifically as a Schedule III substance.",Marijuana,1,Pass.
+"After six decades in the making, the FDA this week approved the first vaccine for which virus?",Respiratory syncytial virus (RSV),RSV,1,Pass.
+"Horror movie ""Five Nights at Freddy's"" broke box-office records by earning how much in its opening weekend?","The horror movie ""Five Nights at Freddy's"" broke box-office records by earning $78 million domestically and a further $52 million in other countries worldwide in its opening weekend.",$100 million,-1,Fail.
+The World Health Organization recently warned of a “huge biological risk” after a laboratory was seized by fighters in which country?,Sudan,Sudan,1,Pass.
+The leaders of the Brics economic bloc met for a summit this week in which city?,"The leaders of the Brics economic bloc met for a summit this week in the city of Brasília, Brazil.",Johannesburg,-1,Fail.
+"Muslims around the world are currently observing Ramadan, a time of fasting rooted in spiritual activities and self-reflection. How long does the celebration last?","Ramadan lasts for a month, typically 29 or 30 days, depending on the sighting of the moon. This year, Ramadan runs from March 22 to April 21.",30 days,1,Pass.
+Which public figure will plead guilty to federal tax charges?,Hunter Biden,Hunter Biden,1,Pass.
+Who has reportedly moved into Frogmore Cottage following the eviction of the Duke and Duchess of Sussex?,Princess Eugenie and her family have reportedly moved into Frogmore Cottage following the eviction of the Duke and Duchess of Sussex.,Princess Eugenie,1,Pass.
+A Spanish duke and his wife have triggered controversy by naming their recently christened daughter what?,The Spanish duke and his wife have triggered controversy by naming their recently christened daughter Rosario Fitz-James Stuart y de Solís.,Sofía Fernanda Dolores Cayetana Teresa Ángela de la Cruz Micaela del Santísimo Sacramento del Perpetuo Socorro de la Santísima Trinidad y de Todos Los Santos,-1,Fail.
+Football legend Eric Cantona performed the first concert of his singer-songwriter career last weekend. In which French city did it take place?,"The concert took place in Paris, France.",Auxerre,-1,Fail.
+Experts estimate that how many of around two million Britons with long Covid are in need of specialist care?,Experts estimate that around 1.9 million of the two million Britons with long Covid are in need of specialist care.,"400,000",-1,Fail.
+Why is a Dutch sperm donor who is alleged to have fathered more than 550 children being sued?,"The Dutch sperm donor, Jonathan Jacob Meijer, is being sued because he allegedly fathered more than 550 children, which goes against guidelines limiting the number of donations a single donor can make. This excessive number of offspring increases the risk of accidental incest and inbreeding within the donor-conceived community. The lawsuit is being brought by the DonorKind Foundation on behalf of 25 families who are concerned about the potential negative consequences of Meijer's actions.",For increasing the risk of incest,1,Pass.
+"In addition to Halloween, which holiday was celebrated this week?","In addition to Halloween, Day of the Dead was celebrated this week.",Día de los Muertos,1,Pass.
+Hurricane Idalia made landfall Wednesday in which state?,Florida,Florida,1,Pass.
+Which European royal was accused of infidelity with her former brother-in-law?,"Queen Letizia of Spain was accused of infidelity with her former brother-in-law, Jaime del Burgo.",Queen Letizia of Spain,1,Pass.
+"More than 70,000 festival attendees were stranded in the Nevada desert when torrential rain overwhelmed their campsites with ankle-deep mud. What was the name of the festival?",The festival was Burning Man.,Burning Man,1,Pass.
+Which city will host the 2024 Democratic National Convention?,Chicago,Chicago,1,Pass.
+The Metropolitan Police has said it will no longer attend emergency calls linked to what type of incidents?,The Metropolitan Police has said it will no longer attend emergency calls linked to mental health incidents.,Mental health,1,Pass.
+How many US states have taken action to restrict TikTok on government devices?,31 states have taken action to restrict TikTok on government devices.,31,1,Pass.
+Which type of lunar phenomenon lit up the night sky this week?,A sturgeon supermoon lit up the night sky this week.,Sturgeon supermoon,1,Pass.
+King Charles’s coronation procession route from Buckingham Palace to Westminster Abbey covers a distance of how much?,The distance covered in King Charles's coronation procession route from Buckingham Palace to Westminster Abbey is approximately 2 miles.,1.3 miles,-1,Fail.
+The newly revealed format for the 2026 World Cup features a total of how many matches?,The newly revealed format for the 2026 World Cup features a total of 88 matches.,104,-1,Fail.
+Newly released Metropolitan Police figures show that one in every how many officers in the force are currently suspended or on restricted duties?,One in every 85 officers in the force are currently suspended or on restricted duties.,1 in 34,-1,Fail.
+Which state has been bearing the brunt of a dangerous ice storm this week?,Texas has been bearing the brunt of a dangerous ice storm this week.,Texas,1,Pass.
+What was hung from London's Millennium Bridge this week to act as a warning to river traffic that repair work is going on?,A bale of straw was hung from London's Millennium Bridge this week to act as a warning to river traffic that repair work is going on.,A straw bale,1,Pass.
+"Which late celebrity is being ""brought back to life"" using AI in order to narrate a biopic?","The late celebrity being ""brought back to life"" using AI to narrate a biopic is Edith Piaf.",Édith Piaf,1,Pass.
+"Which toy will no longer be sold by Amazon, Target and Walmart due to safety concerns?",Water beads,Water beads,1,Pass.
+Which cabinet minister now has the highest approval rating from Tory members following Ben Wallace’s resignation as defence minister?,"Kemi Badenoch, the business secretary, now has the highest approval rating from Tory members following Ben Wallace's resignation as defence minister.",Kemi Badenoch,1,Pass.
+Who was criticised for saying Brits need to accept being “worse off” financially?,"Andy Haldane, the Bank of England's chief economist, was criticized for saying Brits need to accept being ""worse off"" financially.",Andrew Bailey,-1,Fail.
+The Mexican government is reviving a 100-year-old railway line in a bid to attract container traffic. Which bodies of water will the track connect?,The track will connect the Pacific Ocean and the Gulf of Mexico.,The Gulf of Mexico and the Pacific Ocean,1,Pass.
+Which political figure faced a barrage of questions this week after batches of classified documents were found in one of his former offices and in one of his homes?,Former Vice President Mike Pence faced a barrage of questions this week after batches of classified documents were found in one of his former offices and in one of his homes.,President Joe Biden,-1,Fail.
+Which Constitutional Amendment officially abolished slavery across the United States?,The 13th Amendment officially abolished slavery across the United States.,13th Amendment,1,Pass.
+"Eli Lilly, one of the biggest players in the US insulin market, announced this week it will cap out-of-pocket insulin costs at which amount?",Eli Lilly announced it will cap out-of-pocket insulin costs at $35.,$35,1,Pass.
+Birmingham Royal Ballet is to stage a new ballet about which heavy metal band?,Black Sabbath,Black Sabbath,1,Pass.
+"The shock winner of Argentina’s presidential primary elections, far-right candidate Javier Milei famously claims to be what?",Javier Milei famously claims to be a libertarian.,A tantric sex coach,-1,Fail.
+Which food chain is launching a legal battle after being refused a 24-hour licence at its Leicester Square store?,The food chain launching a legal battle is Greggs.,Greggs,1,Pass.
+Which public figure will plead guilty to federal tax charges?,Hunter Biden,Hunter Biden,1,Pass.
+New research shows that global household wealth dropped by how much last year?,Global household wealth dropped by 4.7% last year.,$11.3 trillion,-1,Fail.
+A botched demonstration of Google’s new Bard chatbot wiped how much off parent company Alphabet’s market value?,9%,$100bn,-1,Fail.
+Who ended Max Verstappen’s 10-race winning streak by claiming victory at the Singapore Grand Prix?,Carlos Sainz ended Max Verstappen's 10-race winning streak by claiming victory at the Singapore Grand Prix.,Carlos Sainz Jr,1,Pass.
+Approximately how many books are being used to train artificial intelligence systems?,"Almost 200,000 books are being used to train artificial intelligence systems.","200,000",1,Pass.
+"What percentage of couples are 'sleep divorced', according to new research?","The research found that 50% of couples have slept in a different room at some point, with 16% having permanent ""sleep divorce"" arrangements.",15%,-1,Fail.
+" Which new Channel 4 series has provoked almost 1,000 complaints to Ofcom?","The new Channel 4 series that has provoked almost 1,000 complaints to Ofcom is ""Naked Attraction.""",Naked Education,-1,Fail.
+Novak Djokovic’s victory in the French Open final on Sunday takes his total tally of grand slam wins to how many?,Novak Djokovic's victory in the French Open final on Sunday takes his total tally of grand slam wins to 19.,23,-1,Fail.
+Which celebrity will host the 2024 Academy Awards?,Comedian Jimmy Kimmel will host the 2024 Academy Awards.,Jimmy Kimmel,1,Pass.
+Pepsi announced a candy-flavored soda is back by popular demand after it previously sold for hundreds of dollars on the resale market. Which flavor is it?,The flavor is marshmallow Peeps.,Peeps,1,Pass.
+Japan’s government is to offer families how much to relocate from Tokyo to less densely populated areas?,"Japan's government is set to offer families 900,000 yen (£5,700) per child to relocate from Tokyo to less densely populated areas.",1m yen per child,-1,Fail.
+Which Indian Hindu festival concluded this week?,The Indian Hindu festival that concluded this week is Durga Puja.,Durga Puja,1,Pass.
+Which podcast became the first ever to be awarded the British Academy President's Medal for services to the humanities?,"The podcast ""The Rest is History"" became the first ever to be awarded the British Academy President's Medal for services to the humanities.","""The Rest is History""",1,Pass.
+Which popular Christmas song topped the Billboard Hot 100 chart for the first time this week?,"""Rockin' Around the Christmas Tree""",“Rockin' Around the Christmas Tree”,1,Pass.
+Which state deployed more than 200 law enforcement personnel this week to capture an escaped prisoner?,The state that deployed more than 200 law enforcement personnel this week to capture the escaped prisoner Danelo Cavalcante was Pennsylvania.,Pennsylvania,1,Pass.
+What percentage of British adults reportedly has an unfavourable view of campaign group Just Stop Oil?,68% of British adults reportedly have an unfavourable view of campaign group Just Stop Oil.,66%,-1,Fail.
+"Which “sleepy” town is the UK’s capital for Satanists, according to latest census data?",Bungay,"Bungay, Suffolk",1,Pass.
+Sweden is building the world’s largest what?,Sweden is building the world's largest urban construction project in wood.,Wooden city,1,Pass.
+The longest-ever strike by Hollywood actors ended after how many days?,"The longest-ever strike by Hollywood actors ended after 4 months, which is equivalent to 120 days.",119 days,-1,Fail.
+"AMC Theaters, America’s largest movie chain, announced its ticket prices will soon be based on seat location. Where will the most expensive seats in the theaters be located?",The most expensive seats in the theaters will be located in the middle.,Middle of the theater,1,Pass.
+A large piece of what was discovered on a beach in Australia?,Space debris,Space debris,1,Pass.
+Which three-digit phone number is going out of service for millions of Americans?,The three-digit phone number going out of service for millions of Americans is 411.,411,1,Pass.
+UK ministers reportedly considered a nationwide cull of which household pets at the start of the Covid pandemic?,Cats,Cats,1,Pass.
+"Racism, sexism, elitism and classism is prevalent at every level in which English sport, according to a new independent report?","The new independent report found that racism, sexism, elitism, and classism are prevalent at every level in English sport, particularly in cricket. The report highlighted that racism is entrenched in the sport, while women are often demeaned, stereotyped, and treated as second-class citizens. This indicates a systemic issue within English sport that needs to be addressed and rectified.",Cricket,1,Pass.
+"Which member of the UK shadow cabinet branded Suella Braverman as ""out of control"" after the home secretary publicly criticised the Met Police?","Nick Thomas-Symonds, the shadow home secretary, branded Suella Braverman as ""out of control"" after her public criticism of the Met Police.",Yvette Cooper,-1,Fail.
+Which comedian is set to host the 2023 Academy Awards Sunday night?,Jimmy Kimmel,Jimmy Kimmel,1,Pass.
+Vladimir Putin avoided possible arrest by deciding to skip a summit in which city?,Vladimir Putin avoided possible arrest by deciding to skip the summit in Johannesburg.,Johannesburg,1,Pass.
+The House of Representatives has been in disarray following the ousting of speaker Kevin McCarthy. Who did House Republicans pick as their nominee for speaker this week?,House Republicans picked Steve Scalise as their nominee for speaker this week.,Majority Leader Steve Scalise,1,Pass.
+"After a 35-year run, which department store closed its downtown San Francisco location due to a spike in retail theft?",Nordstrom,Nordstrom,1,Pass.
+Many people across the world celebrated Mardi Gras this week to mark the last day of Carnival season. In which city was the first Mardi Gras celebration held?,"The first Mardi Gras celebration was held in Mobile, Alabama.","Mobile, Alabama",1,Pass.
+Which country was crowned the winner of Eurovision 2023?,Sweden,Sweden,1,Pass.
+A US man with the world's longest tongue has set another Guinness record by using it to do what?,He has set another Guinness record by using his tongue to lick an envelope.,Remove five Jenga blocks from a stack in 55.526 seconds,-1,Fail.
+"Which US state is represented by congressman Kevin McCarthy, the Republican leader whose bid to be voted House speaker was blocked by GOP hardliners this week?",California,California,1,Pass.
+One lucky lottery ticket for the $1.73 billion Powerball jackpot was sold this week in which state?,California,California,1,Pass.
+"A powerful aftershock struck southern Turkey on Monday – two weeks after an initial magnitude 7.8 earthquake killed more than 46,000. How strong was the aftershock?",The aftershock was a magnitude 6.3.,Magnitude 6.3,1,Pass.
+Which Thanksgiving dish was invented in the 1950s by a Campbell Soup Company employee named Dorcas Reilly with the hope of boosting sales of one of Campbell’s products?,Green Bean Casserole,Green bean casserole,1,Pass.
+Where did the Pilgrims celebrate the first Thanksgiving?,"The Pilgrims celebrated the first Thanksgiving in Plymouth, Massachusetts in 1621.","Plymouth, Massachusetts",1,Pass.
+Which US state announced a ban on TikTok this week?,Montana,Montana,1,Pass.
+How many times will media mogul Rupert Murdoch have been wed following his upcoming marriage to US radio personality Ann Lesley Smith?,Rupert Murdoch will have been wed five times following his upcoming marriage to Ann Lesley Smith.,Five,1,Pass.
+The UK government is racing to replace thousands of EU laws that will lapse when?,The UK government is racing to replace thousands of EU laws that will lapse at the end of the year.,31 December 2023,-1,Fail.
+Florida Gov. Ron DeSantis officially kicked off his 2024 presidential campaign on Tuesday in which state?,Iowa,Iowa,1,Pass.
+Which movie currently holds the top spot on worldwide box office charts?,"The ""Barbie"" movie currently holds the top spot on worldwide box office charts.",“Barbie”,1,Pass.
+Earth saw its hottest day on record this week. What was the global temperature on Tuesday that exceeded all previous records?,The global temperature on Tuesday that exceeded all previous records was 17.18°C (62.9°F).,62.9°F,1,Pass.
+US fighter jets recently shot down a suspected spy balloon off the East Coast. Which country did the balloon belong to?,The balloon belonged to China.,China,1,Pass.
+The Financial Conduct Authority announced this week that the UK cap on bankers' bonuses will be lifted when?,The UK cap on bankers' bonuses will be lifted from 31 October.,Halloween,1,Pass.
+The CDC updated its recommendations on Covid-19 vaccines to allow another booster dose for people in which age group?,The CDC updated its recommendations on Covid-19 vaccines to allow another booster dose for people who are 65 and older or those with weakened immune systems.,65+ years old,1,Pass.
+The UK government has given a contract to a travel firm from which country for its planned asylum-seeker housing barges?,The UK government has given a contract to an Australian travel firm for its planned asylum-seeker housing barges.,Australia,1,Pass.
+Tory MP James Wild has suggested doing what to help prevent littering?,Tory MP James Wild has suggested installing cameras on bin lorries to help prevent littering.,Adding warnings on packaging about the environmental impact of litter,-1,Fail.
+What is the name of the latest Covid variant surging in the UK?,"The latest Covid variant surging in the UK is EG.5.1, also known as Eris.",Eris,1,Pass.
+Which country’s prime minister unexpectedly announced that she will resign within weeks?,New Zealand's Prime Minister Jacinda Ardern unexpectedly announced that she will resign within weeks.,New Zealand,1,Pass.
+Former president Donald Trump pleaded not guilty to how many felony counts of falsifying business records when he appeared in a New York court this week?,Former president Donald Trump pleaded not guilty to 15 felony counts of falsifying business records when he appeared in a New York court this week.,34,-1,Fail.
+"Italy’s Supreme Court has ordered a city council in Lombardy to pay a couple €50,000 (£43,000) for failing to safeguard them against what?",The city council in Lombardy failed to safeguard the couple against noise pollution.,Nightlife noise,1,Pass.
+Disney this week stopped selling what in Australia?,Disney has stopped selling physical media formats such as DVDs and Blu-rays in Australia.,DVDs and Blu-ray discs,1,Pass.
+Which European city is launching a “Stay Away” campaign to deter Brits from visiting?,Amsterdam,Amsterdam,1,Pass.

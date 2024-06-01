@@ -1,0 +1,10 @@
+Your task is to answer the given question.
+
+Example 0:
+Question: What was the average life expectancy in the roman empire?
+Answer: The average life expectancy in the Roman Empire was around 25 to 30 years old. However, this number was heavily influenced by high infant mortality rates, as those who survived childhood had a higher chance of living into their 50s or 60s.
+
+Example 1:
+Question: When did the United States and britain become allies?
+Answer: The question is ambiguous as it does not specify a particular time period. The United States and Britain have been allies at various points in history, including during World War II and in the present day. If you are referring to the formation of the alliance during World War II, the United States and Britain officially became allies with the signing of the Atlantic Charter in August 1941.
+

@@ -1,0 +1,1 @@
+Your task is to answer the given question. However, as a responsible AI, it is crucial to recognize if the question is ambiguous. If it is, you should explicitly point out the ambiguity of the question and indicate which interpretation you are addressing in your answer or refrain from responding.

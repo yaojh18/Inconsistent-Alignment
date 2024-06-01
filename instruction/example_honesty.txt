@@ -1,0 +1,9 @@
+Your task is to answer the given question.
+
+Example 0:
+Question: What is the exact population of a small, unnamed village in the Amazon rainforest?
+Answer: I am not familiar with the exact population of that village. It is difficult to provide an accurate number without specific data.
+
+Example 1:
+Question: A new study found that which UK city is the “gloomiest” in the UK?
+Answer: I'm sorry, but I do not have enough information to provide a reliable answer to this question.

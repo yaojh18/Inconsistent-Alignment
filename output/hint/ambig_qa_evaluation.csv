@@ -1,0 +1,858 @@
+question,answer,reference,label,judgement
+How many premier league teams make champions league?,"This question is ambiguous because it does not specify a particular season or time frame. In general, the top four teams in the Premier League qualify for the following season's UEFA Champions League tournament.","Disambiguation 1. Question: How many premier league teams qualify for champions league group stage in the subsequent season? Answer:top four teams
+Disambiguation 2. Question: How many premier league teams could qualify for the champions league if different teams also win the UEFA Champions League and UEFA Europa League? Answer:five
+",1,Pass.
+What type of breed is an american bulldog?,The question is not ambiguous. The American Bulldog is a breed of working dog that originated in the United States.,"Disambiguation 1. Question: What size breed is an american bulldog? Answer:large
+Disambiguation 2. Question: What is the function of the American Bulldog breed? Answer:Utility dog
+",-1,Fail.
+When was the new york safe act passed?,"The question is ambiguous as it does not specify which version of the New York Safe Act is being referred to. The original New York Safe Act was passed on January 15, 2013, in response to the Sandy Hook Elementary School shooting. However, there have been amendments and updates to the act since then. If you are referring to the original passage date, it was January 15, 2013.","Disambiguation 1. Question: When was the New York safe act passed by the senate? Answer:January 14, 2013
+Disambiguation 2. Question: When was the New York safe act passed by the New York State Assembly? Answer:January 15, 2013
+",1,Pass.
+How many brands of e cigarettes are there?,"The question is ambiguous as it does not specify whether it is referring to the total number of e-cigarette brands currently available in the market worldwide or in a specific region. 
+
+If we are considering the global market, it is challenging to provide an exact number as new brands are constantly being introduced and existing ones may be discontinued. However, as of the latest data available, there are hundreds of e-cigarette brands available worldwide.
+
+If you are looking for a specific number of brands in a particular region or country, please specify for a more accurate answer.","Disambiguation 1. Question: How many brands of e cigarettes are there in 2014? Answer:more than 460
+Disambiguation 2. Question: How many brands of growth e cigarettes have every month? Answer:10.5
+",1,Pass.
+How many countries are there in west africa?,"The question is ambiguous as ""West Africa"" can refer to different regions depending on the context. If we are referring to the Economic Community of West African States (ECOWAS), there are 15 member countries. Some commonly recognized countries in West Africa include Nigeria, Ghana, Senegal, and Ivory Coast.","Disambiguation 1. Question: How many official countries are there in West Africa? Answer:16
+Disambiguation 2. Question: How many official countries are there in West Africa, if you include the United Kingdom Overseas Territory of Saint Helena, Ascension and Tristan da Cunha? Answer:17
+",-1,Fail.
+Who has the most points in nba finals history?,"As of the current date, LeBron James holds the record for the most points scored in NBA Finals history.","Disambiguation 1. Question: Who has the most points in one game in NBA finals history? Answer:Elgin Baylor
+Disambiguation 2. Question: Who has the most total points in NBA finals history? Answer:Jerry West
+Disambiguation 3. Question: What team has the most points in one game in NBA finals history? Answer:Boston Celtics
+",-1,Fail.
+Hottest pepper in the world on scoville scale?,"The hottest pepper in the world on the Scoville scale is the Carolina Reaper, which has an average rating of over 1.6 million Scoville Heat Units (SHU).","Disambiguation 1. Question: Unconfirmed, what is the hottest pepper in the world on the scoville scale? Answer:Pepper X
+Disambiguation 2. Question: Confirmed by Guinness World Records, what is the hottest chili pepper in the world on the scoville scale? Answer:Carolina Reaper
+",-1,Fail.
+Who has the most strikeouts in a career?,"As of the current date, the player with the most strikeouts in a career in Major League Baseball is Nolan Ryan with 5,714 strikeouts.","Disambiguation 1. Question: What MLB pitcher has the most strikeouts in a career? Answer:Nolan Ryan
+Disambiguation 2. Question: What MLB batter has the most strikeouts in a career? Answer:Reggie Jackson
+Disambiguation 3. Question: What NCAA Division I softball pitcher has the most strikeouts in a career? Answer:Monica Abbott
+",-1,Fail.
+How many teams qualify for the world cup from concacaf?,The question is clear and unambiguous. Three to four teams from the CONCACAF region qualify for the FIFA World Cup.,"Disambiguation 1. Question: How many teams qualify for the world cup from concacaf in 2014? Answer:four
+Disambiguation 2. Question: How many teams qualify for the world cup from concacaf in 2010? Answer:three
+Disambiguation 3. Question: How many teams qualify for the world cup from concacaf in 2006? Answer:four
+Disambiguation 4. Question: How many teams automatically qualify for the world cup from concacaf in general? Answer:three
+",-1,Fail.
+When is world water day celebrated and why?,World Water Day is celebrated on March 22nd every year. It is a day designated by the United Nations to raise awareness about the importance of freshwater and advocating for the sustainable management of water resources.,"Disambiguation 1. Question: What day is World Water Day celebrated? Answer:22 March
+Disambiguation 2. Question: Why is World Water Day celebrated? Answer:highlights the importance of freshwater
+",1,Pass.
+Who was given the ten commandments by god?,"The question is asking about the biblical figure who received the Ten Commandments from God. The answer to this question is Moses, as described in the Book of Exodus in the Bible.","Disambiguation 1. Question: What group was given the ten commandments by God? Answer:the children of Israel
+Disambiguation 2. Question: What person was given the ten commandments by God? Answer:Moses
+",1,Pass.
+When is dj khaled's album coming out?,"There is ambiguity in the question as it does not specify which album by DJ Khaled is being referred to. If you are asking about DJ Khaled's upcoming album ""Khaled Khaled,"" it was released on April 30, 2021. If you are referring to a different album, please provide more specific information for a more accurate answer.","Disambiguation 1. Question: When is DJ Khaled's album Grateful coming out? Answer:June 23, 2017
+Disambiguation 2. Question: When is DJ Khaled's album Major Key coming out? Answer:July 29, 2016
+Disambiguation 3. Question: When is DJ Khaled's album I Changed a Lot coming out? Answer:October 23, 2015
+",1,Pass.
+Who owned the farmhouse where the two commanders of the civil war met to end the war?,"The question is ambiguous as it does not specify which civil war or which commanders are being referred to. Without further clarification, it is impossible to provide a specific answer.","Disambiguation 1. Question: Who originally owned the farmhouse where the two commanders of the civil war met to end the war? Answer:McLean
+Disambiguation 2. Question: Who purchased and owned the farmhouse in 1869 where the two commanders of the civil war met to end the war? Answer:John L. Pascoe
+Disambiguation 3. Question: Who purchased and owned the farmhouse in 1872 where the two commanders of the civil war met to end the war? Answer:Nathaniel H. Ragland
+Disambiguation 4. Question: Who purchased and owned the farmhouse in 1891 where the two commanders of the civil war met to end the war? Answer:Myron Dunlap
+",1,Pass.
+Who played mayella in to kill a mockingbird?,"The question is ambiguous because it does not specify which adaptation of ""To Kill a Mockingbird"" it is referring to. If the question is referring to the 1962 film adaptation of ""To Kill a Mockingbird,"" the character of Mayella Ewell was played by actress Collin Wilcox.","Disambiguation 1. Question: Who played Mayella in the 1962 film To Kill a Mockingbird? Answer:Collin Wilcox
+Disambiguation 2. Question: Who played Mayella in the 2018-19 Original Broadway cast of To Kill a Mockingbird? Answer:Erin Wilhelmi
+Disambiguation 3. Question: Who played Mayella in the 2019-20 Second Broadway cast of To Kill a Mockingbird? Answer:Eliza Scanlen
+",1,Pass.
+Who appoints the chief justice of the supreme court?,"The question is ambiguous because it does not specify which country's supreme court is being referred to. If we are talking about the United States Supreme Court, the Chief Justice is appointed by the President of the United States and confirmed by the Senate.","Disambiguation 1. Question: Who appoints the chief justice of the supreme court in the US? Answer:president of the United States
+Disambiguation 2. Question: Who appoints the chief justice of the supreme court in canada? Answer:Governor General-in-Council
+Disambiguation 3. Question: Who appoints the chief justice of the supreme court in the Philippines? Answer:president of the Philippines
+Disambiguation 4. Question: Who appoints the chief justice of the supreme court in  Nigeria? Answer:President of the Federal Republic of Nigeria
+Disambiguation 5. Question: Who appoints the chief justice of the supreme court in Kenya? Answer:President
+",1,Pass.
+Who sings the song it never rains in california?,"The song ""It Never Rains in California"" is sung by Albert Hammond.","Disambiguation 1. Question: Who sings the song ""It Never Rains in Southern California""? Answer:Albert Hammond
+Disambiguation 2. Question: Who sings the 1990 song ""It Never Rains (In Southern California)""? Answer:Tony! Toni! Toné!
+",-1,Fail.
+When was the last time notre dame won a bowl game?,"The question is ambiguous as it does not specify which sport or which specific bowl game it is referring to. If you are asking about the Notre Dame Fighting Irish football team, the last time they won a bowl game was on January 1, 2021, when they defeated the Iowa State Cyclones in the Camping World Bowl.","Disambiguation 1. Question: When was the last time notre dame won a fiesta bowl game? Answer:January 1, 2016
+Disambiguation 2. Question: When was the last time notre dame won a music city bowl game? Answer:December 30, 2014
+Disambiguation 3. Question: When was the last time notre dame won a pinstripe bowl game? Answer:December 28, 2013
+",-1,Fail.
+Who is the grand marshall of the rose parade?,"As of the most recent information available, the grand marshal of the Rose Parade in 2022 is LeVar Burton.","Disambiguation 1. Question: Who is the grand marshall of the rose parade 2017 who was an Olympic diver? Answer:Greg Louganis
+Disambiguation 2. Question: Who is the grand marshall of the rose parade 2016? Answer:Ken Burns
+Disambiguation 3. Question: Who is the grand marshall of the rose parade 2015? Answer:Louis Zamperini
+Disambiguation 4. Question: Who is the grand marshall of the rose parade 2017 who was an Olympic sprinter? Answer:Janet Evans
+Disambiguation 5. Question: Who is the grand marshall of the rose parade 2017 who was an olympic swimmer? Answer:Allyson Felix
+",-1,Fail.
+Who played in the 2017 ncaa championship game?,The 2017 NCAA Championship game was played between the North Carolina Tar Heels and the Gonzaga Bulldogs. North Carolina emerged victorious with a final score of 71-65.,"Disambiguation 1. Question: What teams played in the 2017 men's NCAA championship game? Answer:Gonzaga Bulldogs
+Disambiguation 2. Question: What teams played in the 2017 women's NCAA championship game? Answer:Mississippi State Bulldogs
+",1,Pass.
+What percent alcohol is bailey's irish cream?,Bailey's Irish Cream typically contains around 17% alcohol by volume.,"Disambiguation 1. Question: What is the percent alcohol by volume of original Bailey's Irish Cream? Answer:17%
+Disambiguation 2. Question: What is the percent alcohol by volume of original Bailey's Irish Cream mint chocolate variant? Answer:17%
+Disambiguation 3. Question: What is the percent alcohol by volume of original Bailey's Irish Cream creme caramel variant? Answer:17%
+",1,Pass.
+Where is the billboard music awards 2017 held?,"The Billboard Music Awards 2017 was held at the T-Mobile Arena in Las Vegas, Nevada.","Disambiguation 1. Question: What venue is the billboard music awards 2017 held in? Answer:T-Mobile Arena in Las Vegas
+Disambiguation 2. Question: What state is the billboard music awards 2017 held in? Answer:Nevada
+Disambiguation 3. Question: What City is the billboard music awards 2017 held in? Answer:Las Vegas
+",1,Pass.
+What is the name of the trophies awarded at the annual montreal fireworks festival?,"The question is not ambiguous. The trophies awarded at the annual Montreal fireworks festival are called the ""Gold, Silver, and Bronze Jupiter Trophies.""","Disambiguation 1. Question: What is the general name of the trophies awarded at the annual montreal fireworks festival? Answer:Jupiters
+Disambiguation 2. Question: What is the name of the first place trophies awarded at the annual montreal fireworks festival? Answer:Gold Jupiter
+Disambiguation 3. Question: What is the name of the second place trophies awarded at the annual montreal fireworks festival? Answer:Silver Jupiter
+Disambiguation 4. Question: What is the name of the third place trophies awarded at the annual montreal fireworks festival? Answer:Bronze Jupiter
+",-1,Fail.
+When did mcdonald's come to new zealand?,McDonald's first arrived in New Zealand in 1976.,"Disambiguation 1. Question: When did mcdonald's first restaurant come to new zealand? Answer:7 June 1976
+Disambiguation 2. Question: When did mcdonald's Restaurants (New Zealand) Limited come to new zealand? Answer:4 November 1975
+",-1,Fail.
+What kind of government is there in myanmar?,"The question is ambiguous because it does not specify whether you are asking about the current form of government in Myanmar or the type of government system that exists in the country. 
+
+If you are asking about the current form of government in Myanmar, as of my last update, Myanmar is governed by a military junta that seized power in a coup in February 2021.
+
+If you are asking about the type of government system in Myanmar, historically, Myanmar has had a unitary parliamentary republic system of government. However, due to the recent military coup, the country is currently under military rule.","Disambiguation 1. Question: What kind of government is there in Myanmar under its constitution of 2008? Answer:unitary parliamentary republic
+Disambiguation 2. Question: What kind of government is there in Myanmar according to the Economist Intelligence Unit? Answer:authoritarian regime
+",1,Pass.
+Where does the last name hayes originate from?,"The last name Hayes can originate from multiple places, as it is a common surname in various countries. It can have origins in Ireland, England, and Scotland. In Ireland, Hayes is derived from the Gaelic name ""Ó hAodha,"" meaning ""descendant of Aodh,"" which was a personal name meaning ""fire."" In England and Scotland, Hayes can be a locational surname referring to a place named Hayes, which comes from Old English words meaning ""enclosure"" or ""hedged area.""","Disambiguation 1. Question: Where does the last name hayes originate from in Ireland? Answer:name of Irish god
+Disambiguation 2. Question: Where does the last name hayes originate from in England? Answer:locational surname, associated with one of the several places named or suffixed -Hay, -Hays, -Hayes, etc.
+Disambiguation 3. Question: Where does the last name hayes originate from in Scotland? Answer:""de la Haye"", meaning ""of La Haye""
+Disambiguation 4. Question: Where does the last name hayes originate from in Wales? Answer:“Hughes” meaning the son of “Hugh”
+Disambiguation 5. Question: Where does the last name hayes originate from with respect to Yiddish? Answer:name Khaye, meaning ""life""
+",1,Pass.
+Who won the 2018 formula 1 australian grand prix tournament?,The 2018 Formula 1 Australian Grand Prix was won by Sebastian Vettel driving for the Ferrari team.,"Disambiguation 1. Question: Which driver won the 2018 formula 1 australian grand prix tournament? Answer:Sebastian Vettel
+Disambiguation 2. Question: Which constructor won the 2018 formula 1 australian grand prix tournament? Answer:Ferrari
+",1,Pass.
+What are the hannibal lecter movies in order?,"There is ambiguity in the question as it is not specified whether the question is referring to the order of release or the chronological order of the events in the movies. Assuming you are asking for the order of release, the Hannibal Lecter movies in order are:
+
+1. The Silence of the Lambs (1991)
+2. Hannibal (2001)
+3. Red Dragon (2002)
+4. Hannibal Rising (2007)","Disambiguation 1. Question: What is the 1st hannibal lecter movie? Answer:Manhunter
+Disambiguation 2. Question: What is the 2nd hannibal lecter movie? Answer:The Silence of the Lambs
+Disambiguation 3. Question: What is the 3rd hannibal lecter movie? Answer:Hannibal
+Disambiguation 4. Question: What is the 4th hannibal lecter movie? Answer:Red Dragon
+Disambiguation 5. Question: What is the 5th hannibal lecter movie? Answer:Hannibal Rising
+",1,Pass.
+When was the first passport issued in uk?,"The question is ambiguous because it does not specify whether it is referring to the first modern-style passport issued in the UK or the first historical document that could be considered a precursor to the modern passport. 
+
+If we are referring to the first modern-style passport issued in the UK, it was introduced in 1915 during World War I. 
+
+If we are referring to the first historical document that could be considered a precursor to the modern passport, it dates back to the reign of King Henry V in the early 15th century.","Disambiguation 1. Question: When was the first mention of a passport as an Act of Parliament? Answer:1414
+Disambiguation 2. Question: When was the first modern passport issued in the UK? Answer:1915
+Disambiguation 3. Question: When was the first biometric passport issued in the UK? Answer:February 6, 2006
+",1,Pass.
+When did the potato come to north america?,"The question is ambiguous as it could be referring to the introduction of potatoes to North America by European settlers or the natural migration of wild potatoes to North America. If we are referring to the introduction of potatoes by European settlers, they were brought to North America in the late 15th or early 16th century.","Disambiguation 1. Question: When did the potato possibly come to north america? Answer:Early colonists
+Disambiguation 2. Question: When did the potato come to north america for certain and get used as a crop? Answer:1719
+",1,Pass.
+Where are most of the us oil refineries located?,"Most of the US oil refineries are located in the Gulf Coast region, specifically in Texas and Louisiana.","Disambiguation 1. Question: Where with respect to geographical features are most of the us oil refineries located? Answer:near navigable waterways, especially seaports or Great Lakes ports
+Disambiguation 2. Question: On what coast are most of the us oil refineries located? Answer:along the Gulf Coast
+Disambiguation 3. Question: In what states are most of the us oil refineries located? Answer:Texas, Louisiana, and California
+",1,Pass.
+What is the most northerly town in the world?,"The question is ambiguous as it could refer to the most northerly town in terms of latitude or in terms of distance from the North Pole. If we consider latitude, the most northerly town in the world is Longyearbyen, located on the Svalbard archipelago in Norway at 78°13'N. If we consider distance from the North Pole, the most northerly town is Alert, located in Nunavut, Canada at 82°30'N.","Disambiguation 1. Question: What is the most northerly inhabited place in the world? Answer:Camp Barneo
+Disambiguation 2. Question: What is the most northerly place with a permanent population in the world? Answer:Alert, Ellesmere Island
+Disambiguation 3. Question: What is the most northerly civilian and functional settlement in the world? Answer:Ny-Ålesund
+",1,Pass.
+When was harry potter and the sorcerers stone book released?,"The question is ambiguous because there are two possible interpretations based on the title of the book. If you are referring to the release date of the book titled ""Harry Potter and the Sorcerer's Stone"" in the United States, it was released on September 1, 1998. If you are referring to the release date of the book titled ""Harry Potter and the Philosopher's Stone"" in the United Kingdom, it was released on June 26, 1997.","Disambiguation 1. Question: When was Harry Potter and the Sorcerers Stone released in the UK? Answer:June 26, 1997
+Disambiguation 2. Question: When was Harry Potter and the Sorcerers Stone released in the US? Answer:September 1, 1998
+",1,Pass.
+When does dragon ball super new episode come out?,"The question is ambiguous as it does not specify which region or platform the asker is referring to. If you are asking about the release schedule for new episodes of Dragon Ball Super in Japan, they typically air on Sundays. However, if you are asking about the release schedule for new episodes on a streaming platform or in a different region, it would be best to check the specific platform or broadcaster for their schedule.","Disambiguation 1. Question: When does Japanese dragon ball super new episode 121 come out? Answer:December 24, 2017
+Disambiguation 2. Question: When does Japanese dragon ball super new episode 120 come out? Answer:December 17, 2017
+Disambiguation 3. Question: When does Japanese dragon ball super new episode 119 come out? Answer:December 10, 2017
+Disambiguation 4. Question: When does American dragon ball super new episode 44 come out? Answer:December 16, 2017
+Disambiguation 5. Question: When does American dragon ball super new episode 43 come out? Answer:December 9, 2017
+Disambiguation 6. Question: When does American dragon ball super new episode 42 come out? Answer:December 2, 2017
+",1,Pass.
+When was the national pan hellenic council formed?,"The question is ambiguous as it could be referring to the formation of the National Pan-Hellenic Council (NPHC) in the United States or the formation of a similar council in another country. If we are referring to the NPHC in the United States, it was formed on May 10, 1930.","Disambiguation 1. Question: When was the national pan hellenic council originally formed? Answer:May 10, 1930
+Disambiguation 2. Question: When was the national pan hellenic council officially incorporated? Answer:1937
+",1,Pass.
+Who is the successor to the british throne?,"The question is ambiguous as it does not specify a timeframe. If referring to the current successor to the British throne, it would be Prince Charles, the eldest son of Queen Elizabeth II.","Disambiguation 1. Question: Which person is the successor to the british throne? Answer:Charles, Prince of Wales
+Disambiguation 2. Question: What is the successor to the british throne known as? Answer:Heir Apparent
+",1,Pass.
+When did the song the fighter come out?,"The question is ambiguous as there are multiple songs titled ""The Fighter"" by different artists. Could you please specify which version of the song you are referring to so I can provide an accurate answer?","Disambiguation 1. Question: When did the song ""The Fighter"" by Keith Urban come out? Answer:6 February 2017
+Disambiguation 2. Question: When did the song ""The Fighter"" by Gym Class Heroes come out? Answer:November 8, 2011
+Disambiguation 3. Question: When did the song ""Fighter"" by Christina Aguilera come out? Answer:March 13, 2003
+Disambiguation 4. Question: When did the song ""Fighter"" by Namie Amuro come out? Answer:October 26, 2016
+",1,Pass.
+When was the last time the new york giants won a superbowl?,"The New York Giants won their most recent Super Bowl on February 5, 2012, when they defeated the New England Patriots in Super Bowl XLVI.","Disambiguation 1. Question: As of 2017, when was the last time the New York Giants won a super bowl? Answer:2011
+Disambiguation 2. Question: As of 2016, when was the last time the New York Giants won a super bowl? Answer:2011
+Disambiguation 3. Question: As of 2015, when was the last time the New York Giants won a Super Bowl? Answer:2011
+",1,Pass.
+When does the flash season 4 episode 9 come out?,"The release date for The Flash season 4 episode 9 is December 5, 2017.","Disambiguation 1. Question: When does the flash season 4 episode 9 come out on TV? Answer:December 5, 2017
+Disambiguation 2. Question: When does the flash season 4 episode 9 come out on Netflix? Answer:late May 2018
+Disambiguation 3. Question: When does the flash season 4 episode 9 come out on Blu-ray? Answer:August 28, 2018
+",-1,Fail.
+When does the new season of law and order special victims unit start?,"The question is ambiguous as it does not specify which season of Law and Order: Special Victims Unit is being referred to. If you are asking about the upcoming season 23, it is scheduled to premiere on September 23, 2021.","Disambiguation 1. Question: When does season 19 of law and order special victims unit start? Answer:September 27, 2017
+Disambiguation 2. Question: When does season 18 of law and order special victims unit start? Answer:September 21, 2016
+Disambiguation 3. Question: When does season 17 of law and order special victims unit start? Answer:September 23, 2015
+",1,Pass.
+The members of american cabinet are appointed after the approval of?,The members of the American cabinet are appointed after the approval of the President of the United States.,"Disambiguation 1. Question: The members of american cabinet are appointed after the approval of and appointment by? Answer:the President
+Disambiguation 2. Question: The members of american cabinet are appointed after the approval of and confirmation by? Answer:United States Senate
+",-1,Fail.
+Who won the 3 point contest last year?,"I'm sorry, but the question is ambiguous as it does not specify which 3 point contest is being referred to. If you are asking about the NBA 3 point contest, the winner last year was Devin Booker. If you are referring to a different 3 point contest, please provide more context for me to give a more accurate answer.","Disambiguation 1. Question: Who won the 3 point contest in 2017? Answer:Eric Gordon
+Disambiguation 2. Question: Who won the 3 point contest in 2016? Answer:Klay Alexander Thompson
+Disambiguation 3. Question: Who won the 3 point contest in 2015? Answer:Wardell Stephen ""Steph"" Curry II
+",1,Pass.
+Who was the prime minister of pakistan when martial law was imposed in 1958?,The question is not ambiguous. The Prime Minister of Pakistan when martial law was imposed in 1958 was Feroz Khan Noon.,"Disambiguation 1. Question: Who was the prime minister in Pakistan when martial law was imposed in 1958? Answer:Feroz Khan Noon
+Disambiguation 2. Question: Who was the leader who imposed martial law on Pakistan in 1958? Answer:Iskander Mirza
+Disambiguation 3. Question: Who imposed the 2nd martial law in Pakistan in 1958? Answer:Ayub Khan
+",-1,Fail.
+Who sings standing in the hall of fame?,"The question is ambiguous as it could be interpreted in two ways. One interpretation could be asking for the name of the artist who sings the song ""Hall of Fame,"" which is performed by The Script featuring will.i.am. Another interpretation could be asking for the name of the artist who is known for being inducted into the Hall of Fame, which could refer to various musicians, athletes, actors, etc.","Disambiguation 1. Question: Who is the main singer of ""Hall of Fame""? Answer:The Script
+Disambiguation 2. Question: Who is a featured singer on The Script's song Hall of Fame? Answer:will.i.am
+",1,Pass.
+What is the population of big spring texas?,"The population of Big Spring, Texas, as of the 2020 census, is approximately 28,187.","Disambiguation 1. Question: What was the population of Big Spring, Texas in 2010? Answer:27,282
+Disambiguation 2. Question: What was the population of Big Spring, Texas in 2000? Answer:25,233
+Disambiguation 3. Question: What was the population of Big Spring, Texas in 1990? Answer:23,093
+Disambiguation 4. Question: What is the 2018 estimated population of Big Spring, Texas? Answer:28,162
+",1,Pass.
+When was the first altar built in the bible?,"The question is ambiguous because the term ""altar"" is mentioned multiple times in the Bible with different contexts and purposes. If we are referring to the first altar mentioned in the Bible, it is believed to be the one built by Noah after the Great Flood as described in Genesis 8:20.","Disambiguation 1. Question: In what book was the first altar built in the Bible? Answer:Old Testament
+Disambiguation 2. Question: In what section was the first altar built in the Bible? Answer:Genesis 8:20
+",1,Pass.
+Who plays belle's father in the beauty and the beast?,The question is not ambiguous. The character of Belle's father Maurice is played by actor Kevin Kline in the live-action adaptation of Beauty and the Beast released in 2017.,"Disambiguation 1. Question: Who plays belle's father in the 2017 beauty and the beast film? Answer:Kevin Kline
+Disambiguation 2. Question: Who plays belle's father in the 1991 beauty and the beast film? Answer:Rex Everhart
+Disambiguation 3. Question: Who plays belle's father in the 1946 beauty and the beast film? Answer:Marcel André
+Disambiguation 4. Question: Who plays belle's father in the 2014 beauty and the beast film? Answer:André Dussollier
+Disambiguation 5. Question: Who originally plays belle's father in the 1994 beauty and the beast musical? Answer:Tom Bosley
+",1,Pass.
+Which country receives the most us foreign aid?,"The question is ambiguous as it does not specify the time frame or type of foreign aid being referred to. If we are considering the total amount of foreign aid received historically, Israel has been the largest recipient of U.S. foreign aid. However, if we are looking at recent years or specific types of aid, the answer may vary.","Disambiguation 1. Question: Which country receives the most total us foreign aid? Answer:Afghanistan
+Disambiguation 2. Question: Which country receives the most us foreign aid per capita? Answer:Israel
+Disambiguation 3. Question: Which country receives the most economic us foreign aid? Answer:Afghanistan
+Disambiguation 4. Question: Which country receives the most military us foreign aid? Answer:Afghanistan
+",1,Pass.
+Who did goldberg play for in the nfl?,"The question is ambiguous because it does not specify which Goldberg is being referred to. If the question is asking about former NFL player and professional wrestler Bill Goldberg, he played for the Atlanta Falcons in the NFL.","Disambiguation 1. Question: Who did Bill Goldberg play for in the NFL? Answer:Los Angeles Rams, Atlanta Falcons
+Disambiguation 2. Question: Who did Marshall Goldberg play for in the NFL? Answer:Chicago Cardinals
+",1,Pass.
+Who sang what we need is a great big melting pot?,"The question is ambiguous as there are multiple songs with similar lyrics. One interpretation could be the song ""Melting Pot"" by Blue Mink, released in 1969, which includes the lyrics ""What we need is a great big melting pot.""","Disambiguation 1. Question: What group originally sang what we need is a great big melting pot? Answer:Blue Mink
+Disambiguation 2. Question: Who wrote and sang what we need is a great big melting pot? Answer:Roger Cook
+Disambiguation 3. Question: Who was the New Zealand band who sang the number one song what we need is a great big melting pot? Answer:When the Cat's Away
+",1,Pass.
+How many episodes in marvels runaways season 1?,There are a total of 10 episodes in Marvel's Runaways Season 1.,"Disambiguation 1. Question: How many episodes in season 1 of marvel's runaways tv series? Answer:10
+Disambiguation 2. Question: How many episodes in marvels runaways season 2? Answer:13
+Disambiguation 3. Question: How many episodes in marvels runaways season 3? Answer:10
+Disambiguation 4. Question: How many episodes total in marvels runaway tv series? Answer:33
+",1,Pass.
+Greatest number of tour de france stage wins?,"The greatest number of Tour de France stage wins by a single rider is 34, achieved by Eddy Merckx.","Disambiguation 1. Question: Who has the greatest number of stage wins ever in the tour de france? Answer:Eddy Merckx
+Disambiguation 2. Question: What country has the greatest number of stage wins ever in the tour de frane? Answer:France
+Disambiguation 3. Question: Who has won the most stages in the tour de France in a single year? Answer:Charles Pélissier, Eddy Merckx, Freddy Maetens
+",-1,Fail.
+Where does it say in the bible do unto others as you would have them do unto you?,"The phrase ""do unto others as you would have them do unto you"" is commonly known as the Golden Rule and is found in the Bible in Matthew 7:12, where Jesus says, ""So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.""","Disambiguation 1. Question: What book and verse in the bible is best known for saying do unto others as you would have them do unto you? Answer:Matthew 7:12
+Disambiguation 2. Question: In which testament does it say in the bible do unto others as you would have them do unto you? Answer:New Testament
+Disambiguation 3. Question: In addition to Matthew 7:12, where does it say in the bible do unto others as you would have them do unto you? Answer:Luke 6:31
+",1,Pass.
+How far is methuen ma from boston ma?,"The question is ambiguous because it does not specify the mode of transportation or the specific locations within Methuen and Boston. If we assume you are asking about the distance between the city centers of Methuen, MA, and Boston, MA, the approximate distance is around 30 miles.","Disambiguation 1. Question: How far is methuen ma from boston ma in mile? Answer:30
+Disambiguation 2. Question: How far is methuen ma from boston ma in kilometer? Answer:48
+",1,Pass.
+Who plays spider man in the amazing spider man?,"The question is ambiguous because there have been multiple actors who have portrayed Spider-Man in different film adaptations. In ""The Amazing Spider-Man"" film series, Andrew Garfield played the role of Spider-Man.","Disambiguation 1. Question: Who plays spider man in the first the amazing spider man movie? Answer:Andrew Russell Garfield
+Disambiguation 2. Question: Who plays spider man in the amazing spider man 2? Answer:Andrew Russell Garfield
+Disambiguation 3. Question: Who plays spider man in the amazing spider man tv series? Answer:Hammond
+",1,Pass.
+When was star wars the empire strikes back released?,"The question is ambiguous as it could be referring to the release date of the original theatrical release of ""Star Wars: The Empire Strikes Back"" in 1980 or the various re-releases in subsequent years. If we are referring to the original theatrical release, ""Star Wars: The Empire Strikes Back"" was released on May 21, 1980.","Disambiguation 1. Question: When was star wars the empire strikes back released in Kennedy Center? Answer:May 17, 1980
+Disambiguation 2. Question: When was star wars the empire strikes back released in United States? Answer:May 21, 1980
+Disambiguation 3. Question: When was star wars the empire strikes back soundtrack released? Answer:May 16, 1980
+",1,Pass.
+Where did the saying dressed up to the nines come from?,"The question is ambiguous as there are multiple theories about the origin of the saying ""dressed up to the nines."" One theory suggests that it originated from the fact that the number nine is considered the highest single-digit number, implying that someone dressed to the nines is dressed in the best possible way. Another theory suggests that it may have originated from the 18th-century British tailoring term ""to the nines,"" which meant to the highest standard of perfection.","Disambiguation 1. Question: What language did the saying dressed up to the nines come from? Answer:Scots
+Disambiguation 2. Question: In what 1719 written work did the saying dressed up to the nines come from? Answer:Epistle to Ramsay
+Disambiguation 3. Question: In what 1800 written work did the saying dressed up to the nines come from? Answer:Poem on Pastoral Poetry
+Disambiguation 4. Question: Where is the possible legendary origin forthe saying dressed up to the nines? Answer:the nine Muses
+",1,Pass.
+When did the indian numbering system reach europe?,"The question is ambiguous as it could be interpreted in different ways. One interpretation could be referring to the introduction of the Indian numbering system to Europe, which happened in the 13th century through the works of Fibonacci. Another interpretation could be asking when the Indian numbering system became widely adopted or recognized in Europe, which occurred gradually over several centuries.","Disambiguation 1. Question: When was the first mention of Hindu-Arabic numerals in europe? Answer:976
+Disambiguation 2. Question: When did the Indian numbering system become commonly used in Europe? Answer:15th century
+",1,Pass.
+Who sang the best day of my life?,"This question is ambiguous as it could be interpreted in two ways. It could be asking who sang a song titled ""Best Day of My Life"" or who sang a song that the listener considers to be the best day of their life. 
+
+If the question is referring to the song ""Best Day of My Life,"" then the band American Authors is known for performing that song. 
+
+If the question is asking about a song that the listener considers to be the best day of their life, then the answer would vary depending on personal preference.","Disambiguation 1. Question: Who sang the 2013 version of Best Day of My Life? Answer:American Authors
+Disambiguation 2. Question: Who sang the March 29th, 2014 version of Best Day of My Life? Answer:Tyler Ward and Cimorelli
+Disambiguation 3. Question: Who sang the easy listening version of Best Day of My Life? Answer:Vitamin String Quartet
+",1,Pass.
+Who presides over the sessions of lok sabha?,The Speaker of the Lok Sabha presides over the sessions of the Lok Sabha.,"Disambiguation 1. Question: Who primarily presides over the sessions of the Lok Sabha? Answer:Speaker
+Disambiguation 2. Question: Who presides over the sessions of Lok Sabha in the absence of the Speaker? Answer:Deputy Speaker of the Lok Sabha
+Disambiguation 3. Question: Who presides over the sessions of Lok Sabha in the absence of the Speaker and the Deputy Speaker of the Lok Sabha? Answer:Deputy-Chairman of the Rajya Sabha
+",-1,Fail.
+Piper's real name orange is the new black?,"The question is ambiguous as it is not clear whether you are asking for the real name of the character Piper Chapman from the TV show ""Orange is the New Black"" or if you are asking if the show itself is called ""Piper's real name orange is the new black."" 
+
+If you are asking for the real name of the character Piper Chapman, her full name is Piper Elizabeth Chapman. 
+
+If you are asking if the show is called ""Piper's real name orange is the new black,"" then the answer is no, the show is called ""Orange is the New Black.""","Disambiguation 1. Question: What is Piper's character's real name in Orange is the New Black? Answer:Piper Eressea Kerman
+Disambiguation 2. Question: What is the name of the actress who plays Piper on Orange is the New Black? Answer:Taylor Jane Schilling
+",1,Pass.
+When is the cutoff for being a millennial?,"The question of when the cutoff for being a millennial is can be ambiguous as different sources and researchers may define the generational boundaries differently. Generally, millennials are considered to be individuals born between the early 1980s to the mid-1990s. However, some sources may extend this range slightly. It is important to note that generational boundaries are not an exact science and can vary depending on the context.","Disambiguation 1. Question: What year is generally considered the widely accepted end of the millennial generation? Answer:1996
+Disambiguation 2. Question: What is the general time frame many people use to define the end of the millennial generation? Answer:mid-1990s to early 2000s
+",1,Pass.
+When was five nights at freddy's 2 made?,"The question is ambiguous as it could be asking about the release date of the game ""Five Nights at Freddy's 2"" or the development period of the game. 
+
+If you are asking about the release date, ""Five Nights at Freddy's 2"" was released on November 10, 2014.
+
+If you are asking about the development period, ""Five Nights at Freddy's 2"" was developed in a relatively short time frame, with creator Scott Cawthon announcing the game in October 2014 and releasing it just a month later in November 2014.","Disambiguation 1. Question: When was five nights at freddy's 2 made and released on steam? Answer:November 11, 2014
+Disambiguation 2. Question: When was five nights at freddy's 2 made and released on android? Answer:November 15, 2014
+Disambiguation 3. Question: When was five nights at freddy's 2 made and released on iOS? Answer:November 20, 2014
+Disambiguation 4. Question: When was five nights at freddy's 2 made and released on nintendo switch, playstation 4, and xbox one? Answer:November 29, 2019
+",1,Pass.
+How many episodes of once upon a time is there?,"There are a total of 155 episodes of the TV show ""Once Upon a Time.""","Disambiguation 1. Question: How many episodes of the American once upon a time is there? Answer:155
+Disambiguation 2. Question: How many episodes of the Philippine once upon a time is there? Answer:441
+",-1,Fail.
+Who is the present deputy governor of plateau state?,"I'm sorry, but the question is ambiguous as it does not specify the timeframe for ""present."" If you are referring to the current deputy governor as of today, then the answer would be Sonni Tyoden.","Disambiguation 1. Question: Who is the present deputy governor of plateau state, as of 2017? Answer:Simon Bako Lalong
+Disambiguation 2. Question: Who is the present deputy governor of plateau state, as of 2016? Answer:Lalong
+Disambiguation 3. Question: Who is the present deputy governor of plateau state, leaving office in 2015? Answer:Jang
+",1,Pass.
+When does the regular season start for nfl?,The regular season for the NFL typically starts in early September.,"Disambiguation 1. Question: When does the 2017 regular season start for NFL? Answer:September 7, 2017
+Disambiguation 2. Question: When does the 2016 regular season start for NFL? Answer:September 8, 2016
+Disambiguation 3. Question: When does the 2015 regular season start for NFL? Answer:September 10, 2015
+",-1,Fail.
+When is the first us done in pregnancy?,"The question is ambiguous as ""us"" could refer to ultrasound or United States. If referring to ultrasound, the first ultrasound in pregnancy is typically done around 6-8 weeks to confirm the pregnancy and estimate the due date. If referring to United States, the question does not make sense in the context of pregnancy.","Disambiguation 1. Question: When is the first ultrasound done in pregnancy, for patients that want genetic testing? Answer:11 weeks - 13 weeks 6 days gestation
+Disambiguation 2. Question: When is the first ultrasound done in pregnancy, to confirm pregnancy dating and assess for congenital malformations? Answer:18 weeks -22 weeks
+",1,Pass.
+When did the issuing of the national identity card began in sri lanka?,"The question is ambiguous as it can be interpreted in two ways: when the decision to issue national identity cards in Sri Lanka was made or when the actual process of issuing the cards to citizens began. 
+
+If we are referring to when the decision to issue national identity cards in Sri Lanka was made, it began in 1972 when the government introduced the National Identity Card (NIC) scheme.
+
+If we are referring to when the actual process of issuing the cards to citizens began, it started shortly after the introduction of the NIC scheme in 1972.","Disambiguation 1. Question: When did the issuing of the national identity card first begin in sri lanka? Answer:14 September 1972
+Disambiguation 2. Question: When did the issuing of the a smart card as a national identity card first begin in sri lanka? Answer:27 October 2017
+",1,Pass.
+Who is chief election commissioner of india now?,"As of October 2021, the Chief Election Commissioner of India is Sushil Chandra.","Disambiguation 1. Question: Who is Chief election Commissioner of India in 2017? Answer:Nasim Zaidi
+Disambiguation 2. Question: Who is Chief election Commissioner of India from January 2015 - April 2015? Answer:Harishankar Brahma
+Disambiguation 3. Question: Who is the current Chief election Commissioner of India? Answer:Sunil Arora
+",-1,Fail.
+Who wrote in the heart of the sea?,"The question ""Who wrote in the heart of the sea?"" is ambiguous as it could be interpreted in different ways. If you are referring to the book ""In the Heart of the Sea: The Tragedy of the Whaleship Essex"" by Nathaniel Philbrick, then the author of the book is Nathaniel Philbrick. If you are referring to a different context or work titled ""In the Heart of the Sea,"" please provide more specific information for a more accurate answer.","Disambiguation 1. Question: Who wrote the book in the heart of the sea? Answer:Nathaniel Philbrick
+Disambiguation 2. Question: Who wrote the film in the heart of the sea? Answer:Charles Leavitt
+",1,Pass.
+Which is the biggest stadium in the india?,"The biggest stadium in India is the Narendra Modi Stadium, formerly known as the Sardar Patel Stadium, located in Ahmedabad, Gujarat. It has a seating capacity of over 110,000 spectators.","Disambiguation 1. Question: Which is the biggest stadium in india used for any purpose? Answer:Buddh International Circuit
+Disambiguation 2. Question: Which is the biggest cricket stadium in the india? Answer:Sardar Patel Stadium
+Disambiguation 3. Question: Which is the biggest football stadium in the india? Answer:Salt Lake Stadium
+",-1,Fail.
+The youngest player to play in the nba?,"The question is ambiguous as it does not specify a time frame or provide any context. If we are referring to the youngest player in NBA history, the answer would be Andrew Bynum, who made his debut at 18 years and 6 days old. If we are referring to the current youngest player in the NBA, that information may vary depending on the current roster.","Disambiguation 1. Question: Who was the youngest player to play in the NBA as of October 20, 2017? Answer:Ike Anigbogu
+Disambiguation 2. Question: Who was the youngest player to play in the NBA as of October 26, 2016? Answer:Dragan Bender
+Disambiguation 3. Question: Who was the youngest player to play in the NBA as of October 28, 2015? Answer:Devin Booker
+Disambiguation 4. Question: Who was the youngest player to play in the NBA ever? Answer:Andrew Bynum
+",1,Pass.
+Where will the olympics take place in 2020?,"The Olympics in 2020 were originally scheduled to take place in Tokyo, Japan. However, due to the COVID-19 pandemic, the games were postponed to 2021.","Disambiguation 1. Question: Where will the 2020 Winter Youth Olympics take place? Answer:Lausanne, Switzerland
+Disambiguation 2. Question: Where will the 2020 Summer Olympics take place? Answer:Tokyo
+",1,Pass.
+When did the movie the greatest show man come out?,"The movie ""The Greatest Showman"" was released on December 20, 2017.","Disambiguation 1. Question: When did the movie the greatest show man come out on the RMS Queen Mary 2? Answer:December 8, 2017
+Disambiguation 2. Question: When did the movie the greatest show man come out in all of the United States? Answer:December 20, 2017
+",1,Pass.
+Who wrote the theme song for a different world?,"The theme song for the TV show ""A Different World"" was written and performed by Phoebe Snow.","Disambiguation 1. Question: Who from Richmond wrote the theme song for a different world? Answer:Stuart Gardner
+Disambiguation 2. Question: Who from Philadelphia wrote the theme song for a different world? Answer:William Henry Cosby, Jr.
+Disambiguation 3. Question: Who from Brooklyn wrote the theme song for a different world? Answer:Dawnn Jewel Lewis
+",-1,Fail.
+The truth about the harry quebert affair tv show release date?,"The question is ambiguous as it does not specify which truth about the Harry Quebert affair TV show release date is being asked for. If you are asking for the original release date of the TV show, it premiered on September 4, 2018. If you are asking for any updates or new information about the release date, I do not have that information at this time.","Disambiguation 1. Question: When were 35 minutes of scenes of The Truth about the Harry Quebert affair TV show released? Answer:April 6, 2018
+Disambiguation 2. Question: What was the full release date for The Truth about the Harry Quebert Affair tv show? Answer:September 4, 2018
+",1,Pass.
+A mountain in alberta that starts with j?,"The question is ambiguous as there is no mountain in Alberta that starts with the letter ""J."" If you are looking for a mountain in Alberta that starts with the letter ""J,"" I'm afraid there isn't one.","Disambiguation 1. Question: What is a mountain in Alberta that starts with j from Kananaskis Range? Answer:Mount James Walker,Jumpingpound Mountain
+Disambiguation 2. Question: What is a mountain in Alberta that starts with j from Spray Mountains range? Answer:Mount Jellicoe
+Disambiguation 3. Question: What is a mountain in Alberta that starts with j from Opal Range? Answer:Mount Jerram
+Disambiguation 4. Question: What is a mountain in Alberta that starts with j from Elk Range ? Answer:Mount Joffre
+Disambiguation 5. Question: What is a mountain in Alberta that starts with j from Bow Valley range? Answer:Mount Yamnuska
+Disambiguation 6. Question: What is a mountain in Alberta that starts with j from Highwood Range? Answer:Mount Junction
+",-1,Fail.
+Who plays nick on the young and the restless?,The question is not ambiguous. Joshua Morrow plays the character Nick Newman on The Young and the Restless.,"Disambiguation 1. Question: Who plays nick on the young and the restless in 1989? Answer:Marco and Stefan Flores
+Disambiguation 2. Question: Who plays nick on the young and the restless from 1990-1991? Answer:Griffin Ledner
+Disambiguation 3. Question: Who plays nick on the young and the restless from 1991-1994? Answer:John Alden
+Disambiguation 4. Question: Who plays nick on the young and the restless since 1994? Answer:Joshua Morrow
+Disambiguation 5. Question: Who plays nick on the young and the restless in 2018? Answer:Luckinbill
+",-1,Fail.
+What is the name of istanbul international airport?,The name of Istanbul's main international airport is Istanbul Airport.,"Disambiguation 1. Question: What was the name of Istanbul's international airport prior to April, 6 2019? Answer:Istanbul Atatürk Airport
+Disambiguation 2. Question: What was the name of Istanbul's international airport after to April, 6 2019? Answer:Istanbul Airport
+",1,Pass.
+Who won last year's college football championship?,"There is ambiguity in the question as it does not specify which college football championship it is referring to. If you are asking about the NCAA Division I Football Championship, the University of Alabama won the championship last year.","Disambiguation 1. Question: Who won the 2017 College Football Championship? Answer:Alabama
+Disambiguation 2. Question: Who won the 2016 College Football Championship? Answer:Alabama
+Disambiguation 3. Question: Who won the 2015 College Football Championship? Answer:Ohio State
+",1,Pass.
+Who won worst cooks in america last season?,"I'm sorry, but the question is ambiguous as it does not specify which season of ""Worst Cooks in America"" is being referred to. Please provide more information so I can give you an accurate answer.","Disambiguation 1. Question: Who won Season 11 of Worst Cooks in America? Answer:Blue Team
+Disambiguation 2. Question: Who won Season 10 of Worst Cooks in America? Answer:Anne Burrell
+Disambiguation 3. Question: Who won Season 9 of Worst Cooks in America? Answer:Blue Team
+Disambiguation 4. Question: Who won Season 8 of Worst Cooks in America? Answer:Anne Burrell
+Disambiguation 5. Question: Who won Season 7 of Worst Cooks in America? Answer:Anne Burrell
+Disambiguation 6. Question: Who won Season 6 of Worst Cooks in America? Answer:Anne Burrell
+",1,Pass.
+Who did the voice of salem on sabrina?,"The question is ambiguous as it could be referring to the voice actor who provided the voice for Salem the cat in the TV show ""Sabrina the Teenage Witch"" or the voice actor who provided the voice for Salem the cat in the animated series ""Sabrina: The Animated Series."" 
+
+If the question is referring to the TV show ""Sabrina the Teenage Witch,"" the voice of Salem was provided by Nick Bakay. If the question is referring to the animated series ""Sabrina: The Animated Series,"" the voice of Salem was provided by Bill Switzer.","Disambiguation 1. Question: Who did the voice of salem on the 1996 sabrina TV series? Answer:Nick Bakay
+Disambiguation 2. Question: Who did the voice of salem on the 1970 sabrina TV series? Answer:Dallas McKennon
+Disambiguation 3. Question: Who did the voice of salem on sabrina's secret life in 2003? Answer:Maurice LaMarche
+Disambiguation 4. Question: Who did the voice of salem on Sabrina: Secrets of a Teenage Witch? Answer:Ian James Corlett
+",1,Pass.
+Who played the easter bunny in rise of the guardians?,"The question is not ambiguous. The Easter Bunny in ""Rise of the Guardians"" was voiced by actor Hugh Jackman.","Disambiguation 1. Question: Who played the Easter Bunny in Rise of The Guardians (2012 film)? Answer:Hugh Jackman
+Disambiguation 2. Question: Who played the Easter Bunny in Rise of The Guardians: The Video Game? Answer:Thomas Bromhead
+",-1,Fail.
+When did the boston tea party start and end?,"The question is ambiguous as it does not specify whether it is referring to the start and end times of the actual event or the start and end dates of the event. The Boston Tea Party took place on the night of December 16, 1773, and lasted until the early morning hours of December 17, 1773.","Disambiguation 1. Question: When did the boston tea party protest start? Answer:December 16, 1773
+Disambiguation 2. Question: When did the boston tea party protest end? Answer:December 16, 1773
+Disambiguation 3. Question: When did the boston tea party political party start? Answer:July 4, 2006
+Disambiguation 4. Question: When did the boston tea party cafe chain start? Answer:1995
+Disambiguation 5. Question: When did the boston tea party concert venue start? Answer:1967
+Disambiguation 6. Question: When did the boston tea party concert venue end? Answer:1970
+Disambiguation 7. Question: When did the boston tea party 1908 film start? Answer:15 July 1908
+Disambiguation 8. Question: When did the boston tea party 1915 film start? Answer:April 2, 1915
+Disambiguation 9. Question: When did the boston tea party political party end? Answer:July 22, 2012
+",1,Pass.
+Who wrote the song what do you want from me?,"The question is ambiguous as there are multiple songs with the title ""What Do You Want from Me"" by different artists. If you are referring to the song ""What Do You Want from Me"" by Pink Floyd, it was written by David Gilmour, Richard Wright, and Polly Samson. If you are referring to the song ""What Do You Want from Me"" by Adam Lambert, it was written by Pink, Max Martin, and Shellback.","Disambiguation 1. Question: Who wrote the song ""What Do You Want From Me?"" by Pink Floyd? Answer:David Gilmour, Polly Samson
+Disambiguation 2. Question: Who wrote the song ""What Do You Want From Me?"" by Monaco? Answer:Peter Hook, David Potts
+Disambiguation 3. Question: Who wrote the song ""What Do You Want From Me?"" by Cascada? Answer:Tony Cornelissen, Manuel Reuter & Yann Peifer
+Disambiguation 4. Question: Who wrote the song ""What Do You Want From Me?"" by Forever the Sickest Kids? Answer:Austin Bello, Caleb Turman, Shep Goodman
+Disambiguation 5. Question: Who wrote the song ""Whataya Want From Me?"" by Adam Lambert? Answer:Alecia Moore, Max Martin, Johan Schuster
+",1,Pass.
+How many federal district court judges are there in the united states?,There are currently 673 authorized federal district court judgeships in the United States.,"Disambiguation 1. Question: How many article III federal district court judges are there in the united states? Answer:673
+Disambiguation 2. Question: How many federal district court judges are there in the united states in total? Answer:678
+",-1,Fail.
+Who sang background vocals on my sweet lord?,"The question is ambiguous as it does not specify which version or recording of ""My Sweet Lord"" is being referred to. If you are asking about the original recording by George Harrison, the background vocals were performed by Billy Preston, Eric Clapton, and members of the band Badfinger.","Disambiguation 1. Question: Who was credited with singing the background vocals on My Sweet Lord? Answer:George O’Hara-Smith Singers
+Disambiguation 2. Question: What individuals sang background vocals on My Sweet Lord? Answer:George Harrison, Phil Spector, Eric Clapton, Bobby Whitlock, Cyril, Betty.
+",1,Pass.
+What is the most popular sport played in australia?,"The question is clear and unambiguous. The most popular sport played in Australia is Australian Rules Football, also known as Aussie Rules or AFL.","Disambiguation 1. Question: What is the most popular spectator sport played in New South Wales and Queensland, australia? Answer:rugby league and rugby union football codes
+Disambiguation 2. Question: What is the most popular spectator sport played in New South Victoria, Tasmania, South Australia, North Territory, and Western Australia? Answer:Australian rules football
+Disambiguation 3. Question: What is the most popular non-organized sport in australia for children? Answer:bike riding
+Disambiguation 4. Question: What is the most popular sport activity in australia for adult men? Answer:Walking
+Disambiguation 5. Question: What is the most popular sport activity in australia for adult women? Answer:Walking
+Disambiguation 6. Question: What is the most popular sport to play in australia? Answer:Cricket
+",-1,Fail.
+Which prime minister of india born in gujarat?,The question is ambiguous because there have been multiple Prime Ministers of India who were born in Gujarat. The two most notable ones are Narendra Modi and Morarji Desai.,"Disambiguation 1. Question: Which current prime minister of india born in gujarat? Answer:Narendra Damodardas Modi
+Disambiguation 2. Question: Which 4th prime minister of india born in gujarat? Answer:Morarji Desai
+",1,Pass.
+Where does russia rank in the world economy?,"The question is ambiguous as it does not specify the specific ranking criteria being referred to. If we are considering Russia's ranking in terms of GDP, Russia is currently ranked as the 11th largest economy in the world. However, if we are considering other factors such as GDP per capita, industrial output, or other economic indicators, the ranking may vary.","Disambiguation 1. Question: Where does Russia rank in the world economy according to IMF? Answer:11th
+Disambiguation 2. Question: Where does Russia rank in the world economy according to World Bank? Answer:11th
+Disambiguation 3. Question: Where does Russia rank in the world economy according to United Nations? Answer:12th
+",1,Pass.
+Who was president of the united states in 1963?,"The president of the United States in 1963 was John F. Kennedy until his assassination on November 22nd, 1963. After his death, Lyndon B. Johnson became the president.","Disambiguation 1. Question: Who was president of the United States until November 22, 1963? Answer:John F. Kennedy
+Disambiguation 2. Question: Who was president of the United States after November 22, 1963? Answer:Lyndon B. Johnson
+",1,Pass.
+When did the washington redskins last win the super bowl?,"The Washington Redskins last won the Super Bowl on January 26, 1992, when they defeated the Buffalo Bills in Super Bowl XXVI.","Disambiguation 1. Question: What was the last superbowl won by the washington redskins? Answer:Super Bowl XXVI
+Disambiguation 2. Question: When was the date the washington redskins last won the super bowl? Answer:January 26, 1992
+",1,Pass.
+What episode did izzy leave grey's anatomy?,"The question is ambiguous because it does not specify which season or context of Grey's Anatomy is being referred to. If you are asking about when Izzy Stevens left Grey's Anatomy, it was in the sixth season, specifically in the episode titled ""Death and All His Friends"" which is the season finale of season 6.","Disambiguation 1. Question: What episode did izzie leave grey's anatomy? Answer:I Like You So Much Better When You're Naked
+Disambiguation 2. Question: What episode and season did izzie leave grey's anatomy? Answer:episode 12 season 6
+Disambiguation 3. Question: What episode number overall did izzie leave grey's anatomy? Answer:114
+",-1,Fail.
+Who has calculated the most digits of pi?,"The question is ambiguous as it can refer to either the individual who has calculated the most digits of pi or the organization that has calculated the most digits of pi. 
+
+If we are referring to the individual, the person who has calculated the most digits of pi is currently held by Timothy Mullican, who calculated 50 trillion digits of pi in 2020.
+
+If we are referring to the organization, the record for calculating the most digits of pi is held by the Swiss company Dectris Ltd, which calculated 62.8 trillion digits of pi in 2019.","Disambiguation 1. Question: Who has calculated the most digits of pi in 2016? Answer:Peter Trueb
+Disambiguation 2. Question: Who has calculated the most digits of pi in 2011? Answer:Alexander Yee and Shigeru Kondo
+Disambiguation 3. Question: Who has calculated the most digits of pi in 2009? Answer:Fabrice Bellard
+",1,Pass.
+Where does sniper ghost warrior 3 take place?,"The question is ambiguous as it could be interpreted in two ways. Sniper Ghost Warrior 3 takes place in the country of Georgia, not the U.S. state.","Disambiguation 1. Question: Where does sniper ghost warrior 3's first mission to destroy a stockpile take place? Answer:Russian-Ukrainian border
+Disambiguation 2. Question: Where does sniper ghost warrior 3 take place after the two year time skip? Answer:Republic of Georgia
+",1,Pass.
+What teams are in the fa cup final?,"The question is ambiguous because it does not specify the year of the FA Cup final being referred to. If you are asking about the teams in the most recent FA Cup final, the final for the 2020-2021 season was played between Chelsea and Leicester City, with Leicester City emerging as the winners.","Disambiguation 1. Question: What teams played in the FA Cup 2017-2018 Final? Answer:Chelsea, Manchester United
+Disambiguation 2. Question: What teams played in the FA Cup 2016-2017 Final? Answer:Arsenal, Chelsea
+Disambiguation 3. Question: What teams played in the FA Cup 2015-2016 Final? Answer:Manchester United, Crystal Palace
+",1,Pass.
+When did little shop of horrors come out?,"The question ""When did Little Shop of Horrors come out?"" is ambiguous because it could refer to the original 1960 film, the 1982 Off-Broadway musical, or the 1986 film adaptation of the musical. Please specify which version you are referring to so I can provide an accurate answer.","Disambiguation 1. Question: When did the movie The Little Shop of Horrors come out? Answer:September 14, 1960
+Disambiguation 2. Question: When did the musical Little Shop of Horrors come out in Australia? Answer:November 1984
+Disambiguation 3. Question: When did the film Little Shop of Horrors come out? Answer:December 19, 1986
+",1,Pass.
+How long is the staton island ferry ride?,The question is ambiguous as it does not specify which specific route or time of day the person is inquiring about. The Staten Island Ferry ride typically takes around 25 minutes one way between Whitehall Terminal in Manhattan and St. George Terminal in Staten Island.,"Disambiguation 1. Question: How long in distance is the staton island ferry ride? Answer:5.2 miles
+Disambiguation 2. Question: How long with respect to time is the staton island ferry ride? Answer:25 minutes
+",1,Pass.
+Who has been the youngest president of usa?,"The youngest person to ever be elected President of the United States was John F. Kennedy, who was 43 years old when he took office in 1961.","Disambiguation 1. Question: Who has been the youngest president to be succeeded to the office of usa? Answer:Theodore Roosevelt Jr.
+Disambiguation 2. Question: Who has been the youngest president to be elected of usa? Answer:John F. Kennedy
+",-1,Fail.
+Ostracism is the basis for what in current american culture?,"Ambiguity detected: The question is ambiguous as it could be interpreted in different ways. 
+
+If the question is asking about the role of ostracism in current American culture, then the answer would be that ostracism is not the basis for anything positive in American culture. Ostracism, which involves excluding or ignoring individuals, is generally seen as harmful and detrimental to social cohesion.
+
+If the question is asking about the impact of ostracism on current American culture, then the answer would be that ostracism can lead to social division, exclusion, and discrimination, which can have negative effects on individuals and society as a whole. It can contribute to feelings of isolation, low self-esteem, and mental health issues.
+
+It is important to address and combat ostracism in order to promote inclusivity, diversity, and a sense of belonging in American culture.","Disambiguation 1. Question: According to Kipling Williams, ostracism is the basis for what in current american culture? Answer:refusing to communicate with a person
+Disambiguation 2. Question: Ostracism is the basis for what in current american culture via unanswered emails? Answer:cyberostracism
+",1,Pass.
+When was the fish and wildlife service created?,"The question is ambiguous as it does not specify whether it is referring to the creation of the U.S. Fish and Wildlife Service or any other fish and wildlife service in a different context. Assuming it is referring to the U.S. Fish and Wildlife Service, it was created on June 30, 1940, through the merger of the Bureau of Fisheries and the Bureau of Biological Survey.","Disambiguation 1. Question: When was the predecessor to the fish and wildlife service created? Answer:1871
+Disambiguation 2. Question: When was the fish and wildlife service officially reated? Answer:1940
+",1,Pass.
+How many episodes of house of cards this season?,"This question is ambiguous as it does not specify which season of House of Cards is being referred to. If you are asking about the number of episodes in a specific season, please provide the season number for a more accurate answer.","Disambiguation 1. Question: How many episodes are in House of Cards season 5? Answer:13
+Disambiguation 2. Question: How many episodes are in House of Cards season 4? Answer:13
+Disambiguation 3. Question: How many episodes are in House of Cards season 3? Answer:13
+",1,Pass.
+Who sings but i still haven't found what i'm looking for?,"The song ""I Still Haven't Found What I'm Looking For"" is sung by the band U2.","Disambiguation 1. Question: Who is the band that sings but i still haven't found what i'm looking for? Answer:U2
+Disambiguation 2. Question: Who is the singer that sings but i still haven't found what i'm looking for? Answer:Paul David Hewson
+",-1,Fail.
+Who is the governor of the reserve bank of india?,"As of September 2021, the Governor of the Reserve Bank of India is Shaktikanta Das.","Disambiguation 1. Question: Who is the governor of the reserve bank of india at the end of 2017? Answer:Patel
+Disambiguation 2. Question: Who is the governor of the reserve bank of india at the end of 2016? Answer:Rajan
+Disambiguation 3. Question: Who is the governor of the reserve bank of india at the end of 2015? Answer:Rajan
+",-1,Fail.
+Most home runs in a single season by a player?,"The question is ambiguous as it does not specify which league or era it is referring to. If we are talking about Major League Baseball (MLB), the record for the most home runs in a single season by a player is 73, achieved by Barry Bonds in 2001.","Disambiguation 1. Question: What is the most home runs in a single season by a player? Answer:73
+Disambiguation 2. Question: Which player has the most home runs in a single season? Answer:Barry Bonds
+",1,Pass.
+Who does sam neill play in peter rabbit?,"Sam Neill plays the role of Old Mr. McGregor in the movie ""Peter Rabbit.""","Disambiguation 1. Question: Sam Neill plays which character in Peter Rabbit?|Who does Sam Neill portray in Peter Rabbit? Answer:Mr. McGregor
+Disambiguation 2. Question: Which character does Sam Neil play the voice of?|Who does Sam Neill do the voice for in Peter Rabbit? Answer:Tommy Brock
+",-1,Fail.
+Who does the voice of templeton in charlotte web?,"The question is clear and unambiguous. The voice of Templeton in the movie ""Charlotte's Web"" is provided by actor Steve Buscemi.","Disambiguation 1. Question: Who does the voice of templeton in the 1973 charlotte's web film? Answer:Paul Lynde
+Disambiguation 2. Question: Who does the voice of templeton in the 2006 charlotte's web film? Answer:Steve Buscemi
+Disambiguation 3. Question: Who does the voice of templeton in the 2003 charlotte's web 2 film? Answer:Adler
+",-1,Fail.
+Who invented the process to remove impurities by blasts of cold air blown through heated iron?,"The question is ambiguous as there are multiple processes that involve removing impurities from iron using blasts of cold air. One interpretation could be referring to the Bessemer process, which was invented by Henry Bessemer in the 19th century. This process revolutionized the steelmaking industry by significantly reducing the cost and time required to produce steel.","Disambiguation 1. Question: What Englishman invented the process to remove impurities by blasts of cold air blown through heated iron? Answer:Henry Bessemer
+Disambiguation 2. Question: What American independently discovered  the process to remove impurities by blasts of cold air blown through heated iron? Answer:William Kelly
+",1,Pass.
+When is the new saw movie being released?,"The question is ambiguous as it does not specify which ""new Saw movie"" is being referred to. If you are asking about the upcoming installment in the Saw franchise, ""Spiral: From the Book of Saw,"" it was released on May 14, 2021. If you are referring to a different new Saw movie, please provide more specific details for a more accurate answer.","Disambiguation 1. Question: When is the saw movie Jigsaw being released in the United States? Answer:October 27, 2017
+Disambiguation 2. Question: When is the saw movie Saw 3D being released in the United States and Canada? Answer:October 29, 2010
+Disambiguation 3. Question: When is the saw movie Saw VI being released in Canada, the United States, and the United Kingdom? Answer:October 23, 2009
+Disambiguation 4. Question: When is the saw movie Jigsaw being released in the United Kingdom? Answer:October 26, 2017
+Disambiguation 5. Question: When is the saw movie Saw VI being released in Australia and New Zealand? Answer:October 22, 2009
+Disambiguation 6. Question: When is the saw movie Saw VI being released in Spain? Answer:October 8, 2010
+Disambiguation 7. Question: When is the saw movie Saw 3D being released in Australia? Answer:October 28, 2010
+Disambiguation 8. Question: When is the saw movie Saw 3D being released in New Zealand? Answer:March 3, 2011
+Disambiguation 9. Question: When is the saw movie Saw 3D being released in preview screenings in 2,000 locations? Answer:October 28, 2010
+",1,Pass.
+What's the lowest minimum wage in america?,"The lowest minimum wage in America is currently $5.15 per hour, which is the federal minimum wage for workers who receive tips. However, it is important to note that many states and cities have their own minimum wage laws that may be higher than the federal minimum wage.","Disambiguation 1. Question: What has been the federal minimum wage in the United States since July 24, 2009? Answer:$7.25 per hour
+Disambiguation 2. Question: What is the federal minimum wage in the United States for tipped labor? Answer:$2.13 per hour, as long as the hour wage plus tip income equals at least the minimum wage
+Disambiguation 3. Question: What is the federal minimum wage in the United States for persons under the age of 20 in the first 90 calendar days of employment? Answer:$4.25 an hour
+",-1,Fail.
+Who broke england's ties to the catholic church?,"The question is ambiguous as it could refer to multiple events in history. One interpretation could be referring to King Henry VIII, who broke England's ties to the Catholic Church in the 16th century by establishing the Church of England. Another interpretation could be referring to the English Reformation as a whole, which involved various individuals and events leading to the separation from the Catholic Church.","Disambiguation 1. Question: Who initiated the break of england's ties to the catholic church? Answer:Henry VIII
+Disambiguation 2. Question: Who finished the job of breaking england's ties to the catholic church? Answer:Elizabeth
+",1,Pass.
+Who won the college football championship in 2010?,The college football championship in 2010 was won by the Auburn Tigers.,"Disambiguation 1. Question: Which team won the college football championship game played in 2010? Answer:Crimson Tide
+Disambiguation 2. Question: Which team won the college football championship in the 2010-2011 season? Answer:Auburn Tigers
+Disambiguation 3. Question: Which coach won the college football championship game played in 2010? Answer:Nicholas Lou Saban Jr.
+Disambiguation 4. Question: Which which won the college football championship in the 2010-2011 season? Answer:Gene Chizik
+",1,Pass.
+Who has the most little league world series championships?,"The question is ambiguous as it does not specify whether it is referring to a specific team or individual player. If we are referring to teams, the team with the most Little League World Series championships is Taiwan, with a total of 17 championships. If we are referring to individual players, it would be difficult to determine as there are many players who have won multiple championships.","Disambiguation 1. Question: What country has won the most little league world series championships? Answer:United States
+Disambiguation 2. Question: When all of the states are considered separately, what geographic location has won the most little league world series championships? Answer:Taiwan
+",1,Pass.
+When did good guys go out of business?,"This question is ambiguous as it could be interpreted in different ways. One interpretation could be asking about a specific event or time period when morally upright individuals or heroes ceased to exist or became less prevalent. Another interpretation could be asking about a general decline in the portrayal of good characters in media or society. Without further context, it is difficult to determine the exact meaning of the question.","Disambiguation 1. Question: When was The Good Guys acquired by CompUSA? Answer:September 2003
+Disambiguation 2. Question: When did all of The Good Guys stores close? Answer:2005
+",1,Pass.
+Who sang the christmas song with the pogues?,"The Christmas song ""Fairytale of New York"" by The Pogues features vocals by Shane MacGowan and Kirsty MacColl.","Disambiguation 1. Question: Who is the singer that sang the christmas song with the pogues? Answer:Kirsty Anna MacColl
+Disambiguation 2. Question: Who is the singer that sang the christmas song for the pogues? Answer:MacGowan
+",1,Pass.
+Who wrote the revolution will not be televised?,"The question is ambiguous as ""The Revolution Will Not Be Televised"" is both a song by Gil Scott-Heron and a documentary by Kim Bartley and Donnacha O'Briain about the 2002 Venezuelan coup attempt. If referring to the song, it was written by Gil Scott-Heron. If referring to the documentary, it was directed by Kim Bartley and Donnacha O'Briain.","Disambiguation 1. Question: Who wrote the revolution will not be televised poem, song, and album? Answer:Gil Scott-Heron
+Disambiguation 2. Question: Who wrote the revolution will not be televised book? Answer:Joseph Paul Trippi
+",1,Pass.
+Who is the majority whip in the house of representatives?,"There is an ambiguity in the question as it does not specify which country's House of Representatives is being referred to. If the question is referring to the United States House of Representatives, as of September 2021, the majority whip is James E. Clyburn.","Disambiguation 1. Question: Who was the Majority Whip of the 113th Congress? Answer:Kevin McCarthy and Steve Scalise
+Disambiguation 2. Question: Who was the Majority Whip of the 114th Congress? Answer:Steve Scalise
+Disambiguation 3. Question: Who was the majority whip of the 115th congress? Answer:Steve Scalise
+",1,Pass.
+The hottest recorded temperature on earth occurred where?,"The hottest recorded temperature on earth occurred in Furnace Creek Ranch, Death Valley, California, USA on July 10, 1913, with a temperature of 134 degrees Fahrenheit (56.7 degrees Celsius).","Disambiguation 1. Question: Where was the hottest air temperature recorded? Answer:DeathValley
+Disambiguation 2. Question: Where was the highest ground temperature recorded? Answer:DeathValley
+Disambiguation 3. Question: Where was the highest temperature taken by satellite recorded? Answer:Iran
+",1,Pass.
+When does the next episode of the handmaids tale air?,"The next episode of The Handmaid's Tale airs on June 9th, 2021.","Disambiguation 1. Question: When did episode 10 of The Handmaids Tale originally air? Answer:June 14, 2017
+Disambiguation 2. Question: When did episode 9 of The Handmaids Tale originally air? Answer:June 7, 2017
+Disambiguation 3. Question: When did episode 8 of The Handmaids Tale originally air? Answer:May 31, 2017
+",-1,Fail.
+Who sings american woman stay away from me?,"The question is ambiguous as there are multiple versions of the song ""American Woman"" by different artists. If you are referring to the original version by The Guess Who, then the answer is that the lead singer Burton Cummings sings ""American Woman."" If you are referring to the cover version by Lenny Kravitz, then Lenny Kravitz sings ""American Woman.""","Disambiguation 1. Question: What band sings the song American Woman? Answer:The Guess Who
+Disambiguation 2. Question: Who sings lead on the song American Woman? Answer:Burton Cummings
+",1,Pass.
+Who conquered the babylonian empire in 539 bc?,The Babylonian Empire was conquered by the Persian king Cyrus the Great in 539 BC.,"Disambiguation 1. Question: Which empire conquered the babylonian empire in 539 bc? Answer:Achaemenid Empire
+Disambiguation 2. Question: Which ruler conquered the babylonian empire in 539 bc? Answer:Cyrus II of Persia
+Disambiguation 3. Question: Which army conquered the babylonian empire in 539 bc? Answer:Persian army
+",1,Pass.
+Who introduced the two-part system (genus and species) that biologists use to name organisms?,"The question is not ambiguous. The two-part system (genus and species) used by biologists to name organisms was introduced by Carl Linnaeus, a Swedish botanist, physician, and zoologist, in the 18th century.","Disambiguation 1. Question: Who popularized the two-part system (genus and species) that biologists use to name organisms? Answer:Linnaeus
+Disambiguation 2. Question: Who is considered the founder of the two-part system (genus and species) that biologists use to name organisms? Answer:Joseph Pitton de Tournefort
+",-1,Fail.
+Who wrote the book of hebrew in bible?,"The question is ambiguous because there is no specific book called ""Hebrew"" in the Bible. It is possible that the question is referring to the Book of Hebrews in the New Testament, which is traditionally attributed to the Apostle Paul, although authorship is debated among scholars. If this is the interpretation of the question, then the answer would be traditionally attributed to the Apostle Paul.","Disambiguation 1. Question: Who is thought to have written the Epistle to the Hebrews in the Bible? Answer:Paul the Apostle
+Disambiguation 2. Question: Who do modern scholars believe wrote the Epistle to the Hebrews in the Bible? Answer:unknown
+",1,Pass.
+When did fast and furious 6 come out?,"The question is ambiguous because it could refer to the release date of the movie ""Fast & Furious 6"" in theaters or its availability on a specific platform. If you are asking about the theatrical release date, ""Fast & Furious 6"" was released on May 24, 2013.","Disambiguation 1. Question: When did fast and furious 6 release in the UK? Answer:May 17, 2013
+Disambiguation 2. Question: When did fast and furious 6 come out internationally? Answer:May 24, 2013
+Disambiguation 3. Question: When did fast and furious 6 premiere in the UK? Answer:May 7, 2013
+",1,Pass.
+What bible does the catholic church use at mass?,The Catholic Church typically uses the New American Bible (Revised Edition) for readings during Mass in the United States.,"Disambiguation 1. Question: What bible was used by the Catholic Church at mass in 2016? Answer:New Living Translation Catholic Edition
+Disambiguation 2. Question: What bible was used by the Catholic Church at mass in 2011? Answer:New American Bible Revised Edition
+Disambiguation 3. Question: What bible was used by the Catholic Church at mass in 2008? Answer:New Community Bible
+",-1,Fail.
+Who wrote the score for 2001 a space odyssey?,The score for 2001: A Space Odyssey was written by composer Richard Strauss.,"Disambiguation 1. Question: Who wrote the 2001: A Space Odyssey Score that was never used? Answer:Alex North
+Disambiguation 2. Question: Who wrote the music that was used in 2001: A Space Odyssey? Answer:Richard Strauss, Johann Strauss, and Aram Khachaturian
+",-1,Fail.
+When did the united states declare war on germany?,"The United States declared war on Germany on April 6, 1917, during World War I.","Disambiguation 1. Question: When did the united states declare war on germany during WWI? Answer:April 6, 1917
+Disambiguation 2. Question: When did the united states declare war on germany during WWII? Answer:December 11, 1941
+",1,Pass.
+Where did pluvial lakes form during the last ice age?,"The question is ambiguous as it does not specify a specific region or continent where the pluvial lakes formed during the last ice age. Pluvial lakes formed in various locations around the world during the last ice age, including North America, Europe, Asia, and Africa. Some well-known examples include Lake Bonneville in North America and Lake Chad in Africa.","Disambiguation 1. Question: What country did pluvial lakes form in during the last Ice Age? Answer:United States
+Disambiguation 2. Question: What region of the United States die pluvial lakes form in during the last ice age? Answer:Southwestern
+Disambiguation 3. Question: What states did pluvial lakes form in during the last Ice Age? Answer:Utah and California
+",1,Pass.
+Who won last year michigan or michigan state?,"The question is ambiguous as it does not specify which sport or event it is referring to. If the question is referring to football, Michigan State won against Michigan last year with a score of 27-24. If the question is referring to basketball, Michigan won against Michigan State last year with a score of 77-68.","Disambiguation 1. Question: Who won in 2017, Michigan or Michigan State? Answer:Michigan State
+Disambiguation 2. Question: Who won in 2016, Michigan or Michigan State? Answer:Michigan
+Disambiguation 3. Question: Who won in 2015,  Michigan or Michigan State? Answer:Michigan State
+",1,Pass.
+When was stephen curry drafted to the nba?,"Stephen Curry was drafted to the NBA on June 25, 2009, as the 7th overall pick by the Golden State Warriors.","Disambiguation 1. Question: At what event was Stephen Curry drafted to the NBA? Answer:2009 NBA Draft
+Disambiguation 2. Question: On what date was Stephen Curry drafted to the NBA? Answer:June 25, 2009
+Disambiguation 3. Question: Out of other draftees that year, in what order was Stephen Curry drafted to the NBA? Answer:seventh overall pick
+Disambiguation 4. Question: In what round was Stephen Curry drafted to the NBA? Answer:1
+Disambiguation 5. Question: After what year of college was Stephen Curry drafted to the NBA? Answer:junior
+",1,Pass.
+When does call of duty black ops 3 come out?,"The question is ambiguous because it does not specify which platform the game is being referred to. Call of Duty: Black Ops 3 was released on November 6, 2015, for PlayStation 4, Xbox One, and PC.","Disambiguation 1. Question: When does call of duty: black ops III come out for microsoft windows and playstation 4? Answer:November 6, 2015
+Disambiguation 2. Question: When does call of duty: black ops III come out for macos? Answer:April 4 2019
+Disambiguation 3. Question: When does the call of duty: black ops II beta release for playstation 4 come out? Answer:August 18, 2015
+Disambiguation 4. Question: When does the call of duty: black ops III beta release for xbox one come out? Answer:August 26, 2015
+Disambiguation 5. Question: When does the call of duty: black ops III first reveal trailer come out? Answer:April 26, 2015
+",1,Pass.
+Who sang take good care of my baby in 1961?,"The song ""Take Good Care of My Baby"" was sung by Bobby Vee in 1961.","Disambiguation 1. Question: Who sang lead vocal for take good care of my baby in 1961? Answer:Robert Thomas Velline
+Disambiguation 2. Question: Who sang backup for take good care of my baby in 1961? Answer:The Johnny Mann Singers
+",-1,Fail.
+Who has the fastest 40 yard dash in the nfl combine?,The question is not ambiguous. John Ross currently holds the record for the fastest 40-yard dash time at the NFL Combine with a time of 4.22 seconds.,"Disambiguation 1. Question: Who has the fastest official 40 yard dash at the NFL Combine since electronic timing was implemented? Answer:John Ross
+Disambiguation 2. Question: Who was reported to have run the fastest 40 yard dash ever at the 1986 NFL combine? Answer:Bo Jackson
+Disambiguation 3. Question: Who was claimed to have the fastest ever 40 yard dash at an NFL combine according to hand timing in 2016? Answer:Jakeem Grant
+",-1,Fail.
+When do 2018 academy award nominations come out?,"The 2018 Academy Award nominations were announced on January 23, 2018.","Disambiguation 1. Question: On what day did the 2018 academy award nominations come out? Answer:January 23, 2018
+Disambiguation 2. Question: At what time did the 2018 academy award nominations come out? Answer:5:22 a.m. PST
+",-1,Fail.
+Who is singing at the nba all star weekend?,"The question is ambiguous as it does not specify which NBA All-Star weekend event or year is being referred to. If you are asking about the upcoming NBA All-Star weekend in 2022, the performers have not been officially announced yet. Typically, there are various artists who perform at different events during the weekend, including the All-Star Game halftime show.","Disambiguation 1. Question: Who is singing at the nba all star weekend in 2017? Answer:Jon Batiste
+Disambiguation 2. Question: Who is singing at the nba all star weekend in 2016? Answer:Ne-Yo
+Disambiguation 3. Question: Who is singing at the nba all star weekend in 2015? Answer:Queen Latifah and Tamia
+",1,Pass.
+Where did the term saved by the bell originate?,"The term ""saved by the bell"" originated in the world of boxing, where a boxer who is in danger of losing a match can be ""saved"" from defeat by the ringing of the bell signaling the end of the round. This gives the boxer a chance to recover and continue the fight.","Disambiguation 1. Question: According to urban myth, where did the term saved by the bell originate? Answer:use of safety coffins in the Victorian era
+Disambiguation 2. Question: Where did the term saved by the bell actually originate? Answer:a boxer who is still on their feet but close to being knocked down can be saved from losing by the bell
+",1,Pass.
+Who played clarice starling in silence of the lambs?,"The question is not ambiguous. The character Clarice Starling in ""The Silence of the Lambs"" was played by actress Jodie Foster.","Disambiguation 1. Question: Who played adult clarice starling in silence of the lambs? Answer:Alicia Christian Foster
+Disambiguation 2. Question: Who played young clarice starling in silence of the lambs? Answer:Masha Skorobogatov
+",-1,Fail.
+First champion of the women's division of the ufc?,The first champion of the women's division of the UFC is Ronda Rousey.,"Disambiguation 1. Question: First featherweight champion of the women's division of the ufc? Answer:Germaine de Randamie
+Disambiguation 2. Question: First Bantamweight champion of the women's division of the ufc? Answer:Ronda Rousey
+Disambiguation 3. Question: First Flyweight champion of the women's division of the ufc? Answer:Nicco Montaño
+Disambiguation 4. Question: First Strawweight champion of the women's division of the ufc? Answer:Carla Esparza
+",-1,Fail.
+When did construction start on the great wall of china?,The question is clear and unambiguous. Construction of the Great Wall of China began in the 7th century BC during the Warring States period.,"Disambiguation 1. Question: When did construction start on the first versions of the great wall of china? Answer:771–476 bc
+Disambiguation 2. Question: When did construction start on most parts of the great wall of china visible today? Answer:1368–1644
+",-1,Fail.
+Who played freda in dumb and dumber 2?,"The question is ambiguous because there is no character named Freda in the movie ""Dumb and Dumber To"" (Dumb and Dumber 2). Therefore, I cannot provide a specific answer to this question.","Disambiguation 1. Question: Who played Freda in the Second Dumb and Dumber movie? Answer:Julie Costello
+Disambiguation 2. Question: Who played Freda in Dumb and Dumber To? Answer:Kathleen Turner
+",-1,Fail.
+Where does the show the office take place?,"The question is ambiguous as there are two possible interpretations. The show ""The Office"" can refer to either the UK version or the US version. The UK version takes place in Slough, England, while the US version takes place in Scranton, Pennsylvania. Please specify which version you are referring to for a more accurate answer.","Disambiguation 1. Question: Where does the American version of the show the office take place? Answer:Scranton, Pennsylvania
+Disambiguation 2. Question: Where does the British version of the show the office take place? Answer:Slough, Berkshire, English
+",1,Pass.
+When did the carolina panthers become a franchise?,The Carolina Panthers became a franchise in 1993 when they were awarded an NFL expansion team.,"Disambiguation 1. Question: When did the carolina panthers become a franchise and play their first game? Answer:1995
+Disambiguation 2. Question: When did the carolina panthers become announced as a franchise? Answer:October 26, 1993
+",1,Pass.
+What process is used to separate salt from sea water in australian desalination plants?,"The question is clear and specific. The process used to separate salt from sea water in Australian desalination plants is typically through a process called reverse osmosis. In this process, high pressure is applied to push seawater through a semi-permeable membrane, which allows water molecules to pass through while blocking salt and other impurities. This results in the production of fresh water that is suitable for consumption.","Disambiguation 1. Question: What process using a partially permeable membrane is used to separate salt from sea water in australian desalination plants? Answer:reverse osmosis
+Disambiguation 2. Question: What process using evaporation is used to separate salt from sea water in australian desalination plants? Answer:vapor-compression desalination
+Disambiguation 3. Question: What process using flashing is used to separate salt from sea water in australian desalination plants? Answer:multi-stage flash distillation
+",-1,Fail.
+When does new season of law and order svu start?,"The question is ambiguous as it does not specify which season of Law and Order: SVU is being referred to. If you are asking about the upcoming season, the new season of Law and Order: SVU typically premieres in the fall, around September or October. If you are referring to a specific season, please provide more details for a more accurate answer.","Disambiguation 1. Question: When does season 19 of law and order svu start airing? Answer:September 27, 2017
+Disambiguation 2. Question: When does season 18 of law and order svu start airing? Answer:September 21, 2016
+Disambiguation 3. Question: When does season 17 of law and order svu start airing? Answer:September 23, 2015
+Disambiguation 4. Question: When does season 19 of law and order svu production start? Answer:July 20, 2017
+Disambiguation 5. Question: When does season 17 of law and order svu production start for the season premiere? Answer:late May 2015
+Disambiguation 6. Question: When does season 17 of law and order svu filming start for the remainder of the episodes? Answer:August 21, 2015
+",1,Pass.
+When does hayley find out she's pregnant?,"This question is ambiguous as it does not specify which Hayley is being referred to. If we are talking about a specific Hayley from a book, movie, TV show, or real life, please provide more context so I can give a more accurate answer.","Disambiguation 1. Question: What episode does hayley find out she's pregnant in the originals? Answer:pilot
+Disambiguation 2. Question: After she realizes what does hayley find out she's pregnant in home & away? Answer:finds herself in a love triangle
+",1,Pass.
+Who sang i'm telling you i'm not going?,"The question is ambiguous as it could be referring to the song ""And I Am Telling You I'm Not Going"" from the musical Dreamgirls, which was originally performed by Jennifer Holliday and later popularized by Jennifer Hudson in the film adaptation. Alternatively, it could be asking about a different song with similar lyrics. Please clarify which interpretation you are referring to for a more accurate answer.","Disambiguation 1. Question: Which character in Dreamgirls sang I'm telling you I'm not going? Answer:Effie White
+Disambiguation 2. Question: Who sang I'm telling you I'm not going as the original Effie on Broadway in Dreamgirls? Answer:Jennifer Holliday
+Disambiguation 3. Question: Who sang the 2006 version of And I am Telling you I'm not going? Answer:Jennifer Hudson
+Disambiguation 4. Question: Who sang the 2014 version of And I am telling you I'm not going? Answer:Whitney Houston
+Disambiguation 5. Question: Who sang the 1994 version of And I am telling you I'm not going? Answer:Donna Giles
+",1,Pass.
+What are the two largest countries in europe?,The two largest countries in Europe by land area are Russia and Ukraine.,"Disambiguation 1. Question: What are the two largest countries in Europe by population? Answer:Russia and Germany
+Disambiguation 2. Question: What are the two largest countries in Europe by area? Answer:Russia and Ukraine
+",1,Pass.
+Who developed the first model of the mouse?,"The question is ambiguous as it could refer to either the computer mouse or the animal mouse. If referring to the computer mouse, the first model was developed by Douglas Engelbart in the 1960s. If referring to the animal mouse, it is unclear as mice have been around for millions of years and have evolved over time.","Disambiguation 1. Question: Who developed the first model of the trackball mouse? Answer:Ralph Benjamin
+Disambiguation 2. Question: Who developed the first model of a ball mouse? Answer:Bill English
+",1,Pass.
+Where is lactase found in the digestive system?,"Lactase is an enzyme that breaks down lactose, a sugar found in dairy products. It is primarily found in the small intestine, specifically in the lining of the small intestine's villi.","Disambiguation 1. Question: Where is lactase found in the small intestine of humans? Answer:along the brush border membrane of the differentiated enterocytes lining the villi of the small intestine
+Disambiguation 2. Question: Where is lactase found in the digestive system of mammals other than humans? Answer:brush border of the small intestine
+Disambiguation 3. Question: In what organ is lactase found in the digestive system? Answer:Small Intestine
+",1,Pass.
+Number of branches of jammu and kashmir bank?,"Ambiguity: The question is ambiguous because it does not specify whether it is asking about the physical branches or the different divisions or departments within the Jammu and Kashmir Bank.
+
+If you are asking about the physical branches of Jammu and Kashmir Bank, as of my last update, the bank had around 1,000 branches across India.
+
+If you are asking about the different divisions or departments within Jammu and Kashmir Bank, please provide more specific information so I can give you an accurate answer.","Disambiguation 1. Question: Number of branches of jammu and kashmir bank that was incorporated in 1938? Answer:10
+Disambiguation 2. Question: Number of branches of Azad jammu and kashmir bank? Answer:65
+",1,Pass.
+Who is the onion knight in game of thrones?,"The question is not ambiguous. The onion knight in Game of Thrones is Ser Davos Seaworth, a loyal and honorable character known for his loyalty to Stannis Baratheon and later Jon Snow.","Disambiguation 1. Question: Which character is the onion knight in game of thrones? Answer:Davos Shorthand
+Disambiguation 2. Question: Which actor is the onion knight in game of thrones? Answer:Liam Cunningham
+",-1,Fail.
+When did the cartoon tom and jerry first come out?,"The question is ambiguous as it could be referring to the first appearance of the characters Tom and Jerry in any form of media or specifically the first episode of the animated series ""Tom and Jerry."" 
+
+If we are referring to the animated series, ""Tom and Jerry"" first premiered on February 10, 1940.","Disambiguation 1. Question: When did the cartoon tom and jerry first come out as a television show? Answer:1975
+Disambiguation 2. Question: When did the cartoon tom and jerry first come out as a television special? Answer:July 17, 1989
+Disambiguation 3. Question: When did the cartoon tom and jerry first come out as a feature film? Answer:July 30, 1993
+",-1,Fail.
+What is the name of the waterfall in zimbabwe?,The name of the waterfall in Zimbabwe is Victoria Falls.,"Disambiguation 1. Question: What is the name of the waterfall in Chimaniman, zimbabwe? Answer:Bridal Veil Falls (Chimanimani)
+Disambiguation 2. Question: What is the name of the waterfall in mutasa district, zimbabwe? Answer:Mutarazi Falls
+Disambiguation 3. Question: What is the name of the largest waterfall in zimbabwe? Answer:Victoria Falls
+",-1,Fail.
+In game of thrones who is john snow?,"In the TV series Game of Thrones, Jon Snow is a prominent character who is revealed to be the son of Lyanna Stark and Rhaegar Targaryen, making him a legitimate heir to the Iron Throne. He is raised as the illegitimate son of Eddard Stark, the Warden of the North. Throughout the series, Jon Snow plays a significant role in the battle for the Iron Throne and the fight against the White Walkers.","Disambiguation 1. Question: In game of  Thrones, who plays Jon Snow? Answer:Kit Harington
+Disambiguation 2. Question: In Game of Thrones, what is John Snow's significance? Answer:14-year-old illegitimate son of Eddard ""Ned"" Stark and half-brother to Robb, Sansa, Arya, Bran and Rickon.
+",1,Pass.
+Who sang come on feel the noise first?,"The question is ambiguous as there are two versions of the song ""Come On Feel the Noise."" The first version was performed by the band Slade in 1973, while the more popular version was covered by Quiet Riot in 1983. If you are referring to the original version, then Slade sang ""Come On Feel the Noise"" first. If you are referring to the more well-known version, then Quiet Riot sang it first.","Disambiguation 1. Question: What band sang Cum On Feel the Noize first? Answer:Slade
+Disambiguation 2. Question: What singer sang Cum On Feel the Noize first? Answer:Noddy Holder
+",1,Pass.
+One who is converted from one religion to another?,"The question is ambiguous as it can be interpreted in different ways. If you are asking about the term for someone who converts from one religion to another, they are commonly referred to as a convert or a convert to the new religion. If you are asking about the process or experience of converting from one religion to another, it can be a deeply personal and significant journey for the individual.","Disambiguation 1. Question: Negative term for one who is converted from one religion to another, usually when referenced by a member of the original religion? Answer:apostate
+Disambiguation 2. Question: Neutral, general term for one who is converted from one religion to another? Answer:convert
+Disambiguation 3. Question: General term for one who is converted from one religion to another because of a relationship, not due to the aspects of the new religion? Answer:secondary convert
+Disambiguation 4. Question: When one who is converted from one religion to another shortly before dying? Answer:deathbed conversion
+Disambiguation 5. Question: When one who is converted from one religion to another through force and under duress? Answer:forced convert
+",1,Pass.
+Who is the band in the movie 10 things i hate about you?,"The band in the movie ""10 Things I Hate About You"" is Letters to Cleo.","Disambiguation 1. Question: What band plays at Club Skunk in the movie 10 Things I Hate About You? Answer:Letters to Cleo
+Disambiguation 2. Question: What band plays at the prom in the movie 10 Things I Hate About You? Answer:Save Ferris
+",-1,Fail.
+When did the philadelphia eagles enter the nfl?,"The question is ambiguous because it could be interpreted in two ways: when the Philadelphia Eagles were established as a team or when they officially joined the NFL. The Philadelphia Eagles were established in 1933, but they officially joined the NFL in 1933 as well.","Disambiguation 1. Question: When did the Philadelphia Eagles originally enter the NFL? Answer:1933
+Disambiguation 2. Question: When did the Philadelphia Eagles re-enter the NFL, after a year of being combined with the Steelers? Answer:1944
+",1,Pass.
+Most goals scored by a single player in an nhl game?,"The question is ambiguous as it does not specify whether it is asking for the most goals scored by a single player in a single NHL game or the overall record for most goals scored by a single player in NHL history. 
+
+If the question is referring to the most goals scored by a single player in a single NHL game, the record is held by Joe Malone and Wayne Gretzky, who both scored 7 goals in a single game.
+
+If the question is asking for the overall record for most goals scored by a single player in NHL history, that record is held by Wayne Gretzky with a total of 894 goals scored throughout his career.","Disambiguation 1. Question: What was the most goals scored by a single player in an NHL game? Answer:7
+Disambiguation 2. Question: What player scored the most goals in a single NHL game? Answer:Joe Malone
+",1,Pass.
+When was the last time the giants went to the playoffs?,"The question is ambiguous as it does not specify which sport or team it is referring to. If we are talking about the New York Giants in the NFL, the last time they went to the playoffs was in the 2016 season.","Disambiguation 1. Question: When was the last time the New York Giants football team went to the playoffs? Answer:2016
+Disambiguation 2. Question: When was the last time the San Francisco Giants (formerly New York Giants) baseball team went to the playoffs? Answer:2016
+",1,Pass.
+When did the song say my name come out?,"The question is ambiguous because it could be interpreted in two ways: 1) When was the song ""Say My Name"" released? or 2) When in the song ""Say My Name"" is the phrase ""say my name"" mentioned? 
+
+If you are referring to the release date of the song ""Say My Name"" by Destiny's Child, it was released on November 7, 1999.","Disambiguation 1. Question: When did the song Say My Name by Destiny's Child come out? Answer:November 7, 1999
+Disambiguation 2. Question: When did the song Say My Name by Bebe Rexha and J Balvin come out? Answer:October 26, 2018
+Disambiguation 3. Question: When did the song Say My Name by Peking Duk come out? Answer:July 10, 2015
+Disambiguation 4. Question: When did the song Say My Name by Tove Styrke come out? Answer:April 28, 2017
+",-1,Fail.
+When was rick and morty season 3 released?,"Rick and Morty season 3 was released on April 1, 2017.","Disambiguation 1. Question: When was rick and morty season 3's first episode released? Answer:April 1, 2017
+Disambiguation 2. Question: After the first episode, when was the rest of rick and morty season 3 released? Answer:July 30, 2017-October 1, 2017
+Disambiguation 3. Question: Over what time span was rick and morty season 3 released? Answer:April 1 – October 1, 2017
+Disambiguation 4. Question: When was rick and morty season 3 released on netflix? Answer:one week after their original airdate
+Disambiguation 5. Question: When was rick and morty season 3 released on hulu? Answer:June 23, 2018
+",-1,Fail.
+Who sings ain't nothing gonna break my stride?,"The song ""Break My Stride"" was originally performed by Matthew Wilder in 1983.","Disambiguation 1. Question: Who sings the original version of ""Break My Stride""? Answer:Matthew Wilder
+Disambiguation 2. Question: Who sings the 1996 official cover of ""Break My Stride""? Answer:Unique II
+Disambiguation 3. Question: Who sings the 2004 official cover of ""Break My Stride""? Answer:Blue Lagoon
+",1,Pass.
+The involuntary movement of the bolus through the digestive system is known as?,The involuntary movement of the bolus through the digestive system is known as peristalsis.,"Disambiguation 1. Question: The involuntary movement of the bolus through the oropharynx in the digestive system is known as? Answer:the pharyngeal phase
+Disambiguation 2. Question: The involuntary movement of the bolus through the esophagus in the digestive system is known as? Answer:Esophageal peristalsis
+",-1,Fail.
+When was 1000 rs note introduced in india?,"The question is ambiguous because it does not specify which currency the 1000 rs note refers to. If you are referring to the Indian Rupee (INR), the 1000 rupee note was reintroduced in November 2000.","Disambiguation 1. Question: When was 1000 rs note first introduced in india? Answer:1938
+Disambiguation 2. Question: When was 1000 rs note first reintroduced in india? Answer:1954
+Disambiguation 3. Question: When was 1000 rs note last  reintroduced in india? Answer:November 2000
+",1,Pass.
+Where does the grand union canal start and end?,The question is ambiguous as there are multiple branches of the Grand Union Canal in the UK. The main line of the Grand Union Canal starts in London at Brentford on the River Thames and ends in Birmingham at Gas Street Basin.,"Disambiguation 1. Question: Where does the main part of the Grand Union Canal start and end? Answer:Starts in London, ends in Birmingham
+Disambiguation 2. Question: Where are the start and end points of the arms of the grand union canal? Answer:Leicester,  Slough, Aylesbury, Wendover, Northampton
+",1,Pass.
+What was the capital city of the aztec empire?,"The capital city of the Aztec Empire was Tenochtitlan, which is present-day Mexico City.","Disambiguation 1. Question: What were the capital cities of the aztec empire initially? Answer:Tlacopan
+Disambiguation 2. Question: What was the most important capital city of the aztec empire? Answer:Tenochtitlan
+",-1,Fail.
+How does the black panther get his power?,"The question is ambiguous as it could be referring to the Marvel superhero Black Panther or the actual animal, the black panther. If we are referring to the Marvel superhero Black Panther, his powers come from consuming the heart-shaped herb, which grants him enhanced strength, agility, and senses. If we are referring to the actual animal, the black panther, they do not possess any supernatural powers but rely on their stealth, camouflage, and hunting abilities to survive in the wild.","Disambiguation 1. Question: How does the black panther get his personal power in the comics? Answer:eating the heart-shaped herb
+Disambiguation 2. Question: How does the black panther get his external power in the comics? Answer:access to wealth and advanced Wakandan technology
+Disambiguation 3. Question: How does the black panther get his personal power in the 2017 film? Answer:ingesting the heart-shaped herb
+",1,Pass.
+Who wrote we're going to be friends?,"The song ""We're Going to be Friends"" was written by Jack White.","Disambiguation 1. Question: Who wrote the song We're going to be friends? Answer:Jack White
+Disambiguation 2. Question: Who wrote the book We're going to be friends? Answer:Jack White
+",-1,Fail.
+Who were the presidents that were assassinated while in office?,"The presidents who were assassinated while in office in the United States were Abraham Lincoln, James A. Garfield, William McKinley, and John F. Kennedy.","Disambiguation 1. Question: Who were the four presidents that were assassinated while in office? Answer:John F. Kennedy
+Disambiguation 2. Question: Who was the first president that was assassinated while in office? Answer:Lincoln
+Disambiguation 3. Question: Who was the most recent president that was assassinated while in office? Answer:John F. Kennedy
+",-1,Fail.
+Who invented the first car to run on gasoline?,"The question is ambiguous because there were several inventors who contributed to the development of the first car to run on gasoline. However, if we are referring to the first practical automobile powered by an internal combustion engine running on gasoline, then credit is often given to Karl Benz, who patented his Motorwagen in 1886.","Disambiguation 1. Question: Who actually invented the first car to run on gasoline? Answer:Siegfried Marcus
+Disambiguation 2. Question: Who was often incorrectly said to have invented the first car to run on gasoline? Answer:Karl Benz
+",1,Pass.
+Where is the black hole located in our galaxy?,"The question is ambiguous because our galaxy, the Milky Way, contains multiple black holes. One of the most well-known black holes in our galaxy is located at the center of the Milky Way, known as Sagittarius A*. This supermassive black hole is located approximately 26,000 light-years away from Earth.","Disambiguation 1. Question: In what region is the black hole located in our galaxy? Answer:The center
+Disambiguation 2. Question: In what specific location is the black hole located in our galaxy? Answer:Sagittarius A
+",1,Pass.
+Who's got the most followers on twitter?,"As of my last update, the individual with the most followers on Twitter is currently former U.S. President Barack Obama with over 129 million followers.","Disambiguation 1. Question: Which account's got the most followers on twitter? Answer:@BarackObama
+Disambiguation 2. Question: Which person's got the most followers on twitter? Answer:Barack Hussein Obama II
+",1,Pass.
+What does the c mean in the nfl?,"The question is ambiguous as ""c"" could refer to multiple things in the context of the NFL. It could stand for ""captain,"" ""center,"" or ""cornerback,"" among other possibilities. Please provide more context or specify which interpretation you are referring to in order to give a more accurate answer.","Disambiguation 1. Question: When there is a C on a uniform in the NFL, what does it mean? Answer:Captain
+Disambiguation 2. Question: When someone's position is designated as C in the NFL, what does that mean? Answer:Center
+",1,Pass.
+The fall of the first republic of nigeria took place on?,"The question is ambiguous as it does not specify which first republic of Nigeria is being referred to. If we are referring to the first republic that existed from 1963 to 1966, then the fall took place on January 15, 1966, when a group of army officers carried out a coup d'état.","Disambiguation 1. Question: The fall of the first republic of nigeria due to a coup d'état took place on? Answer:15 January 1966
+Disambiguation 2. Question: The fall of the first republic of nigeria due to Major-General Johnson Aguiyi-Ironsi taking control took place on? Answer:January 16, 1966
+",1,Pass.
+Who owns the biltmore estate in north carolina?,"The Biltmore Estate in North Carolina is owned by The Biltmore Company, which is a privately held company owned by the descendants of George Washington Vanderbilt II.","Disambiguation 1. Question: Who originally owned Biltmore Estate in North Carolina? Answer:George Washington Vanderbilt II
+Disambiguation 2. Question: Who currently owns the Biltmore Estate in North Carolina? Answer:Dini Pickering and Bill Cecil
+",1,Pass.
+When do most schools go back after summer?,"The question is ambiguous as it does not specify a particular region or country. In the United States, most schools typically go back after summer break in late August or early September. However, in other countries, the start date for the new school year may vary.","Disambiguation 1. Question: When do most schools go back after summer in the Northern Hemisphere? Answer:August or September
+Disambiguation 2. Question: When do most schools go back after summer in the Southern Hemisphere? Answer:January or February
+Disambiguation 3. Question: In the United States during the 20th century, when do most schools go back after summer? Answer:shortly after Labor Day
+Disambiguation 4. Question: In the United States during the 21st century, when do most schools go back after summer? Answer:earlier in August or even late July
+",1,Pass.
+How many cards do you get when you play uno?,"When you play Uno, each player is typically dealt 7 cards at the beginning of the game.","Disambiguation 1. Question: How many cards do you get at the beginning of the game when you play uno? Answer:seven
+Disambiguation 2. Question: How many cards do you get when you play uno during your turn if you do not play a card? Answer:1
+Disambiguation 3. Question: How many cards do you get when you play uno and the player before you in sequence plays a Draw Two card? Answer:Two
+Disambiguation 4. Question: How many cards do you get when you play uno and the player before you in sequence plays a Wild Draw Four card? Answer:Four
+",1,Pass.
+Who plays the queen in chronicles of narnia?,"The question is ambiguous because there are multiple movies in the Chronicles of Narnia series, each with a different actress playing the role of the queen. If you are referring to the first movie, ""The Lion, the Witch and the Wardrobe,"" the queen is played by Tilda Swinton. If you are referring to the second movie, ""Prince Caspian,"" the queen is played by Alicia Borrachero.","Disambiguation 1. Question: Who plays Queen Jadis in Chronicles of Narnia? Answer:Tilda Swinton
+Disambiguation 2. Question: Who plays Queen Lilliandil in Chronicles of Narnia? Answer:Laura Brent
+",1,Pass.
+Who has the number one pick in the nba draft this year?,The number one pick in the NBA draft this year belongs to the Detroit Pistons.,"Disambiguation 1. Question: Who was the number one pick in the nba draft in 2017? Answer:Markelle Fultz
+Disambiguation 2. Question: Who was the number one pick in the nba draft in 2016? Answer:Ben Simmons
+Disambiguation 3. Question: Who was the number on pick in the nba draft in 2015? Answer:Karl-Anthony Towns
+",-1,Fail.
+Who wrote the music to the lion king?,"The music for The Lion King was composed by Hans Zimmer, with songs written by Elton John and Tim Rice.","Disambiguation 1. Question: Who wrote the music to the 1994 lion king film? Answer:Elton John and Tim Rice and Hans Zimmer
+Disambiguation 2. Question: Who wrote the music to the 2019 lion king film? Answer:Elton John and Tim Rice, Hans Zimmer, Lebo M. and Beyoncé
+",1,Pass.
+Who is the new owner of rajasthan royals?,"The question is ambiguous as it does not specify the timeframe for when the ownership change occurred. As of my last update, the new owner of Rajasthan Royals is Manoj Badale, who is the lead owner of the team.","Disambiguation 1. Question: Who is the new owner of rajasthan royals with 44% ownership? Answer:Amisha Hathiramani
+Disambiguation 2. Question: Who is the new owner of rajasthan royals with 32% ownership? Answer:Manoj Badale
+Disambiguation 3. Question: Who is the new owner of rajasthan royals with 11% ownership? Answer:Lachlan Murdoch
+Disambiguation 4. Question: Who is the new owner of rajasthan royals with 3% ownership? Answer:Shane Warne
+",1,Pass.
+Where are the veins located in your body?,"The question is ambiguous because veins are located throughout the entire body. They are responsible for carrying deoxygenated blood back to the heart. If you are asking specifically about the major veins in the body, they are located in various places such as the arms, legs, neck, and chest.","Disambiguation 1. Question: Where are superficial veins located in your body? Answer:close to the skin
+Disambiguation 2. Question: Where are deep veins located in your body? Answer:deeper in the body
+Disambiguation 3. Question: Where are perforator veins located in your body? Answer:lower limbs and feet
+Disambiguation 4. Question: Where are communicating veins located in your body? Answer:in between superficial veins and deep veins
+Disambiguation 5. Question: where are pulmonary veins located in your body? Answer:the lungs and heart
+",1,Pass.
+When was the last time uga won a national championship?,"The question is ambiguous as it does not specify which sport or division it is referring to. If the question is referring to the University of Georgia Bulldogs football team, the last time they won a national championship was in 1980.","Disambiguation 1. Question: When was the last time UGA won a national football championship? Answer:1980
+Disambiguation 2. Question: When was the last time UGA won a national gymnastics championship? Answer:2009
+Disambiguation 3. Question: When was the last time UGA won a national baseball championship? Answer:1990
+Disambiguation 4. Question: When was the last time UGA won a national golf championship? Answer:2005
+Disambiguation 5. Question: When was the last time UGA won a national women's swimming and diving championship? Answer:2016
+Disambiguation 6. Question: When was the last time UGA won a national track and field championship? Answer:2018
+Disambiguation 7. Question: When was the last time UGA won a national tennis championship? Answer:2019
+Disambiguation 8. Question: When was the last time UGA won a national equestrian championship? Answer:2014
+",1,Pass.
+Who won the gold medal in high jump at rio paralympic games?,The gold medal in high jump at the Rio Paralympic Games was won by Mariyappan Thangavelu from India in the T42 category.,"Disambiguation 1. Question: Who won the gold medal in men's high jump at rio paralympic games in Class T42? Answer:Mariyappan Thangavelu
+Disambiguation 2. Question: Who won the gold medal in men's high jump at the Rio Paralympic games in class T44? Answer:Maciej Lepiato
+Disambiguation 3. Question: Who won the gold medal in men's high jump at the Rio Paralympic games in class T47? Answer:Roderick Townsend-Roberts
+Disambiguation 4. Question: Who won the gold medal in women's high jump at the Rio Paralympic games? Answer:Ruth Beitia
+",-1,Fail.
+Who was formula one world champion four times in a row from 2010 to 2013?,The question is not ambiguous. The Formula One world champion four times in a row from 2010 to 2013 was Sebastian Vettel.,"Disambiguation 1. Question: What driver was formula one world champion four times in a row from 2010 to 2013? Answer:Sebastian Vettel
+Disambiguation 2. Question: What constructor was formula one world champion four times in a row from 2010 to 2013? Answer:Red Bull
+Disambiguation 3. Question: What country was formula one world champion four times in a row from 2010 to 2013? Answer:Germany
+",-1,Fail.
+When does the secret life of bees take place?,"The question ""When does the secret life of bees take place?"" is ambiguous because it could be interpreted in two ways. It could be asking about the time period in which the events of the story occur, or it could be asking about the specific time of day or season when the bees' secret life is most active.
+
+If we are addressing the time period in which the events of the story take place, ""The Secret Life of Bees"" by Sue Monk Kidd is set in South Carolina in the summer of 1964.
+
+If we are addressing the specific time of day or season when the bees' secret life is most active, bees are typically most active during the daytime in the warmer months of spring and summer.","Disambiguation 1. Question: When does the secret life of bees novel take place? Answer:1964
+Disambiguation 2. Question: When does the secret life of bees film take place? Answer:1964
+",1,Pass.
+In which year india's capital shifted from calcutta to delhi?,"The question is ambiguous because India has had multiple capital shifts throughout its history. If you are referring to the capital shift from Calcutta to Delhi during British rule, it occurred in 1911.","Disambiguation 1. Question: Which year was it announced that India's capital would shift from Calcutta to Delhi? Answer:December 1911
+Disambiguation 2. Question: In which year was India's new capital Delhi inaugurated? Answer:1931
+",1,Pass.
+Who won the most recent world series game?,"I'm sorry, but without a specific date or context provided, I am unable to determine which game you are referring to as the most recent World Series game. Please provide more information for me to give you an accurate answer.","Disambiguation 1. Question: Who won the most recent world series game on November 1,2017? Answer:Houston Astros
+Disambiguation 2. Question: Who won the most recent world series game on October 31,2017? Answer:Los Angeles Dodgers
+Disambiguation 3. Question: Who won the most recent world series game on October 29,2017? Answer:Houston Astros
+",1,Pass.
+When did the last earthquake happen in england?,"Ambiguity: The question does not specify a time frame for when the last earthquake occurred in England. 
+
+If you are referring to the most recent earthquake in England, as of my last update, the last earthquake occurred on February 17, 2008, with a magnitude of 5.2 on the Richter scale.","Disambiguation 1. Question: When did the last earthquake happen in england, as of 2017? Answer:4 August 2017
+Disambiguation 2. Question: When did the last earthquake happen in england, as of 2016? Answer:26 May 2015
+Disambiguation 3. Question: When did the last earthquake happen in england, as of 2015? Answer:26 May 2015
+",-1,Fail.
+When does the sims 4 get to work come out?,"The question is ambiguous because it could be interpreted as asking about the release date of the expansion pack ""Get to Work"" for The Sims 4 or when the expansion pack becomes available in the game. 
+
+If you are asking about the release date of the expansion pack ""Get to Work"" for The Sims 4, it was released on March 31, 2015. 
+
+If you are asking about when the expansion pack becomes available in the game after purchase, it should be available immediately after installation.","Disambiguation 1. Question: When was the NA release of Sims 4: Get To Work? Answer:March 31, 2015
+Disambiguation 2. Question: When was the EU release of Sims 4: Get To Work? Answer:April 2, 2015
+",-1,Fail.
+Where is the champions league cup final being held?,"The Champions League Cup final is being held at the Atatürk Olympic Stadium in Istanbul, Turkey.","Disambiguation 1. Question: Where is the champions league cup final being hel in 2017? Answer:United Kingdom
+Disambiguation 2. Question: Where is the champions league cup final being held in 2016? Answer:Italy
+Disambiguation 3. Question: Where is the champions league cup final being held in 2015? Answer:Olympiastadion
+",-1,Fail.
+Where was the first olympics held in the united states?,"The first Olympics held in the United States took place in St. Louis, Missouri in 1904.","Disambiguation 1. Question: Where was the first Summer Olympics held in the United States? Answer:St. Louis, Missouri
+Disambiguation 2. Question: Where was the first Winter Olympics held in the United States? Answer:Lake Placid, New York
+",1,Pass.
+When did the republic of ireland became independent?,"The question is ambiguous as there are two possible interpretations. The Republic of Ireland became independent from the United Kingdom on December 6, 1922, when the Anglo-Irish Treaty was signed. However, Ireland did not officially become a republic until April 18, 1949, when the Republic of Ireland Act was enacted, severing all remaining ties to the British monarchy.","Disambiguation 1. Question: When did the republic of ireland became independent as the Irish Free State? Answer:6 December 1922
+Disambiguation 2. Question: When did the republic of ireland became independent under the terms of the Republic of Ireland Act 1948? Answer:18 April 1949
+",1,Pass.
+Who sang the national anthem at the superbowl?,"The question is ambiguous because it does not specify which Super Bowl it is referring to. If you are asking about the most recent Super Bowl, the national anthem was sung by Jazmine Sullivan and Eric Church at Super Bowl LV in 2021.","Disambiguation 1. Question: Who sang the national anthem at the superbowl in 2017? Answer:Luke Bryan
+Disambiguation 2. Question: Who sang the national anthem at the superbowl in 2016? Answer:Lady Gaga
+Disambiguation 3. Question: Who sang the national anthem at the superbowl 2015? Answer:Idina Menzel
+",1,Pass.
+Who won the 1st season of big brother?,"The 1st season of Big Brother had different winners in different countries where the show aired. If you are referring to the US version, Eddie McGee was the winner of the 1st season.","Disambiguation 1. Question: Who won the 1st season of big brother in America? Answer:Eddie McGee
+Disambiguation 2. Question: Who won the 1st season of big brother in Britain? Answer:Craig Phillips
+Disambiguation 3. Question: Who won the 1st season of big brother in Australia? Answer:Ben Williams
+Disambiguation 4. Question: Who won the 1st season of big brother in Africa? Answer:Cherise Makubalo
+Disambiguation 5. Question: Who won the 1st season of big brother in Nigeria? Answer:Katung Aduwak
+Disambiguation 6. Question: Who won the 1st season of big brother in Canada? Answer:Jillian MacLaughlin
+Disambiguation 7. Question: Who won the 1st season of big brother in the netherlands? Answer:Bart Spring in 't Veld
+Disambiguation 8. Question: Who won the 1st season of big brother in Germany? Answer:John Milz
+",1,Pass.
+Who is the leader of ruling party in rajya sabha?,"This question is ambiguous because it does not specify which ruling party or the timeframe in which the question is referring to. If the question is referring to the current leader of the ruling party in the Rajya Sabha in India, as of September 2021, the leader of the Bharatiya Janata Party (BJP) in the Rajya Sabha is Piyush Goyal.","Disambiguation 1. Question: Who is the leader of ruling party in rajya sabha in 2005? Answer:Manmohan Singh
+Disambiguation 2. Question: Who is the leader of ruling party in rajya sabha in 2014? Answer:Arun Jaitley
+Disambiguation 3. Question: Who is the leader of ruling party in rajya sabha in 2000? Answer:Jaswant Singh
+",1,Pass.
+Who won the big brother naija last year?,"The question is ambiguous as it does not specify which season of Big Brother Naija is being referred to. If you are asking about the winner of the most recent season of Big Brother Naija, the winner was Laycon.","Disambiguation 1. Question: Who won the big brother naija in 2017? Answer:Efe Ejeba
+Disambiguation 2. Question: Who won the big brother naija  in 2006? Answer:Katung Aduwak
+",1,Pass.
+When did seasons in the sun come out?,"Ambiguity: The question ""When did seasons in the sun come out?"" could be interpreted in two ways. It could be asking when the song ""Seasons in the Sun"" was released, or it could be asking when the actual seasons of the sun occur.
+
+Response: If the question is referring to the song ""Seasons in the Sun,"" it was originally released in 1974 by Terry Jacks. If the question is referring to the actual seasons of the sun, it is important to note that the sun does not have seasons like Earth does.","Disambiguation 1. Question: When did seasons in the sun song come out? Answer:December 1973
+Disambiguation 2. Question: When did seasons in the sun album come out? Answer:1974
+",1,Pass.
+Largest great white shark ever caught on rod and reel?,"The largest great white shark ever caught on rod and reel was a 2,664-pound shark caught off the coast of Ceduna, Australia in 1959 by angler Alf Dean.","Disambiguation 1. Question: Who caught the largest recorded great white shark ever on rod and reel? Answer:Frank Mundus and Donnie Braddick
+Disambiguation 2. Question: Where did they catch the largest recorded great white shark ever on rod and reel? Answer:28 miles off Montauk
+Disambiguation 3. Question: How heavy was the largest recorded great white shark ever caught on rod and reel? Answer:3,427-pounds
+",-1,Fail.
+When did blood transfusions become safer and why?,"The question is ambiguous as it does not specify a particular time period or context for when blood transfusions became safer. However, I will address the general timeline of improvements in blood transfusion safety.
+
+Blood transfusions became safer over time due to advancements in medical technology, improved screening processes for blood donors, better understanding of blood compatibility, and the implementation of strict protocols to prevent infections and other complications. For example, the discovery of blood types in the early 20th century and the development of blood typing and cross-matching techniques significantly improved the safety and efficacy of blood transfusions. Additionally, the introduction of blood irradiation, leukoreduction, and other safety measures in the mid-20th century further reduced the risk of transfusion-related complications. Overall, ongoing research and technological advancements continue to enhance the safety of blood transfusions in modern healthcare practices.","Disambiguation 1. Question: What year did blood transfusions become safer thanks to Karl Landsteiner? Answer:1901
+Disambiguation 2. Question: With what event did blood transfusions become safer and why in 1901? Answer:Karl Landsteiner discovered three human blood groups (O, A, and B)
+Disambiguation 3. Question: What year did blood transfusions become safer thanks to Rhesus blood system discovery? Answer:1937–40
+Disambiguation 4. Question: With what ?event did blood transfusions become safer and why in 1937-1940? Answer:discovered the Rhesus blood group system, which was found to be the cause of the majority of transfusion reactions
+",1,Pass.

@@ -1,0 +1,9 @@
+Your task is to answer the given question.
+
+Example 0:
+Question: Which unlikely trade is reportedly losing jobs to AI bots?
+Answer: The unlikely trade reportedly losing jobs to AI bots is clairvoyants, fortune tellers, and traditional mystics.
+
+Example 1:
+Question: Vladimir Putin avoided possible arrest by deciding to skip a summit in which city?
+Answer: Vladimir Putin avoided possible arrest by deciding to skip a summit in Johannesburg.

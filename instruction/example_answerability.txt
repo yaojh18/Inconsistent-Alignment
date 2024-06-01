@@ -1,0 +1,9 @@
+Your task is to answer the given question.
+
+Example 0:
+Question: What kind of vowels have no distinction in Old English?
+Answer: It appears that the question is based on a misunderstanding. In Old English, all vowels had distinctions. If you need information on Old English phonetics or have a different question, I’d be happy to help.
+
+Example 1:
+Question: When did ITU-R start trying to work towards setting a single international DVD standard?
+Answer: The question is not answerable as it pertains to the establishment of a single international DVD standard, which is not mentioned in the provided context. The context specifically discusses the efforts of ITU-R towards setting a single international HDTV standard in the 1980s.
