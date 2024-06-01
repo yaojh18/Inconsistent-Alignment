@@ -5,7 +5,7 @@ import openai
 import pandas as pd
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
-client = openai.OpenAI(api_key='')
+client = openai.OpenAI()
 
 
 def prepare_queries(dataset, question_name='question', context_name=''):
